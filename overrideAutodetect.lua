@@ -1,0 +1,24 @@
+FullscreenEnabled = 1
+FullscreenScreen = 0
+ResolutionWidth = 1920
+ResolutionHeight = 1080
+OverallGraphicsQuality = 3
+VSyncEnabled = 0
+FullscreenRefreshRate = 144
+MaxFrameRate = 240
+TargetFrameRate = 60
+ResolutionScale = 1.000000
+PresentInterval = 0
+WindowedBorderless = 0
+StrandBasedHair = 1
+UseGoalNets3d = -1
+NisAtFullFps = 0
+CrowdQuality = 2
+GrassQuality = 2
+MotionBlur = 0
+ClothQuality = 2
+DynamicAOQuality = 2
+DynamicResolution =  0
+MinWindowWidth =  1280
+MinWindowHeight =  720
+
