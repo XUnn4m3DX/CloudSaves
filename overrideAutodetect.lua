@@ -1,7 +1,7 @@
-FullscreenEnabled = 0
+FullscreenEnabled = 1
 FullscreenScreen = 0
-ResolutionWidth = 0
-ResolutionHeight = 0
+ResolutionWidth = 1920
+ResolutionHeight = 1080
 OverallGraphicsQuality = 3
 VSyncEnabled = 0
 FullscreenRefreshRate = 144
