@@ -11,11 +11,11 @@ Direct3D:
     VRAM:     7957 MB
     Driver:   32.0.15.8180
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.195 seconds
+- Completed reload, in  0.432 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.527900 ms
+UnloadTime: 0.525000 ms
 Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
 Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
 Loading game. Version : 1.1.5n
@@ -35,53 +35,545 @@ Playing animation datetime_flip_down
 Playing animation datetime_flip_up then datetime_flip_down
 Hiding Main Menu
 Playing animation location_slide_left then location_enter_left
-Playing animation conversation_popout_full
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Playing animation OpenQuestUI
-Playing animation CloseQuestUI
-Playing animation location_slide_left then location_enter_left
-Starting conversation shower with myself
+Starting conversation hotfixes with myself
+Starting conversation story_reminders with myself
+Triggered event add=jack, 2
+Triggered event sfx=phoneringloop
 Playing animation conversation_popin
-Triggered event setblackout=1
-Playing Spine jack_loneshower
-Playing Spine jack_loneshower
-Advancing time: Day 14 ( Day)
-Playing animation datetime_flip_up then datetime_flip_down
-Triggered event advancetime
-Triggered event setblackout=0
-Triggered event add=jack, 1
+Triggered event stopsfx
+Playing animation open_handphone
+Triggered event message=cath, cath_skinnydipping
+Playing animation conversation_popout_full
+Playing animation notification
+Starting conversation 015_CathSkinnyDipping with myself
+Triggered event add=jack, 2
+Trying to unlock wallpaper cath_1 more than once
+Trying to unlock wallpaper cath_2 more than once
+Trying to unlock wallpaper cath_gabby_jacuzzi more than once
+Trying to unlock wallpaper cath_cosplay more than once
+Trying to unlock wallpaper cath_gabby_lingerie_1 more than once
+Trying to unlock wallpaper cath_selfie_hiddenlake more than once
+Triggered event closehp
 Playing animation QuestNotification
 Playing animation hide_during_notification
 Invalid animation hide_during_notification
-Triggered event triggerquest=take_shower_end
+Triggered event triggerquest=cathskinnydip_1
+Playing animation conversation_popin
+calling move call transition to room: HiddenLake
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=cath, 14
+Triggered event add=jack, 3
+Triggered event detach=cath, itemhat
+Triggered event startspanking=cath_004
+Triggered event setblackout=1
+Playing Spine cath_skinnydip_comic_1
+Playing Spine cath_skinnydip_comic_2
+Playing Spine cath_skinnydip_comic_2
+Playing Spine cath_skinnydip_comic_3
+Playing Spine cath_skinnydip_comic_3
+Playing Spine cath_skinnydip_comic_4
+Playing Spine cath_skinnydip_comic_4
+calling fade call transition
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 01_fast
+Playing Spine 02_idle
+Playing Spine 02_idle
+Playing Spine 02_idle
+Playing Spine 03_idle_kiss
+Playing Spine 03_idle_kiss
+Playing Spine 03_idle_kiss
+Playing Spine 03_idle_kiss
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_fast
+Playing Spine 04_cum_inside
+Playing Spine 04_cum_inside_idle
+Playing Spine 04_cum_inside_idle
+Playing Spine 04_cum_inside_idle
+Playing Spine 04_cum_inside_idle
+calling fade call transition
+calling move call transition to room: HiddenLakeLogCloseup
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 5
+Triggered event add=cath, 6
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=cathskinnydip_2
+Triggered event setzoominstant=-1
+Triggered event setblackout=0
+Triggered event stopspanking
+calling fade call transition
+calling move call transition to room: HiddenLake
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=cath, 1
+Triggered event add=jack, 3
+Advancing time: Day 249 ( Day)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetime
+Triggered event attach=cath, itemhat
+Character Spine 0553af1cd7a47d6428db0fb526796484 destroyed
+Triggered event remove=cath
+Triggered event add=cath, 1
+Triggered event remove=cath
+Triggered event attach=cath, itemhat
 Playing animation conversation_popout_full
 Playing animation OpenQuestUI
-Playing animation location_slide_left then location_enter_left
 Playing animation CloseQuestUI
 Playing animation location_slide_left then location_enter_left
 Playing animation location_slide_left then location_enter_left
-Starting conversation UnlockWhiteFlower with myself
+Playing animation location_slide_left then location_enter_left
+Releasing room CabinA (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Starting conversation 105_ShikiResort with myself
+Triggered event add=dog, 1
+Triggered event add=jack, 3
+Playing animation conversation_popin
+Triggered event sfx=dog_whimper
+Triggered event sfx=bark
+Triggered event sfx=dog_whimper
+Triggered event sfx=dog_whimper
+Triggered event sfx=bark
+Triggered event sfx=phoneringloop
+Playing animation open_handphone
+Triggered event message=tori, tori_shiki_walk
+Playing animation conversation_popout_full
+Starting conversation 106_ToriShiki with myself
+Trying to unlock wallpaper tori_1 more than once
+Trying to unlock wallpaper tori_2 more than once
+Trying to unlock wallpaper tori_cosplay_1 more than once
+Triggered event closehp
+Triggered event add=dog, 1
+Triggered event add=jack, 3
+Playing animation conversation_popin
+Triggered event sfx=bark
+calling move call transition to room: Wreck
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 1
+Triggered event add=dog, 2
+Triggered event add=tori, 3
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event remove=dog
+calling move call transition to room: Ravine
+Releasing room HiddenLakeLogCloseup (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=dog, 1
+Triggered event add=jack, 3
+Triggered event add=tori, 4
+Triggered event sfx=bark
+Triggered event addpan=dog, -400
+Triggered event remove=dog
+calling move call transition to room: Bungalows
+Releasing room HiddenLake (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=tori, 0
+Triggered event add=jack, 1
+Triggered event add=olga, 3
+Triggered event add=dog, 4
+Triggered event sfx=bark
+Triggered event addpan=dog, 200
+Triggered event remove=dog
+calling move call transition to room: Ropeways
+Releasing room Poopdeck (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event remove=olga
+Triggered event add=tori, 0
+Triggered event add=jack, 1
+Triggered event add=dog, 2
+Triggered event add=rachel, 3
+Triggered event add=grace, 4
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event remove=dog
+calling move call transition to room: Gorge
+Releasing room Upperdeck (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event remove=grace, rachel
+Triggered event add=tori, 0
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Triggered event add=gabby, 4
+calling fade call transition
+calling move call transition to room: Cliff
+Releasing room Wreck (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 4
+Triggered event remove=tori,cath,gabby
+Triggered event add=jack,3
+Triggered event add=dog, 1
+Triggered event sfx=bark
+Triggered event sfx=dog_whimper
+Triggered event add=hiro, 0
+Triggered event add=dog, 2
+invalid room 
+invalid room 
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event sfx=dog_whimper
+Triggered event sfx=bark
+Triggered event addpan=dog, -500
+Triggered event remove=dog
+calling move call transition to room: Gorge
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event addandsort=hiro, 0, 2
+Triggered event add=jack, 1
+Triggered event add=tori, 2
+Triggered event add=cath, 3
+Triggered event add=gabby, 4
+Advancing time: Day 249 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetime
+Triggered event remove=cath, gabby
+Triggered event add=tori, 3
+calling move call transition to room: Ropeways
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=grace, 0
+Triggered event add=rachel, 1
+Triggered event add=jack, 2
+Triggered event add=tori, 3
+Triggered event add=hiro, 4
+Triggered event add=jack,3
+Triggered event add=tori,4
+Triggered event add=hiro,2
+Triggered event remove=tori, hiro
+Triggered event add=jack, 3
+Triggered event add=dog, 4
+Triggered event sfx=bark
+Triggered event sfx=dog_whimper
+Triggered event sfx=bark
+Triggered event addpan=dog, 200
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=shikiresort_2
+Triggered event remove=dog
+Triggered event remove=rachel
+Triggered event add=rachel,1
+Triggered event remove=rachel
+Triggered event add=grace,1
+Triggered event remove=grace
+Triggered event add=grace,1
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Releasing room Ravine (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Bungalows (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Cliff (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Gorge (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Advancing time: Day 249 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Starting conversation tori_rep_sex with myself
+Triggered event add=jack, 1
+Triggered event add=tori, 3
+Playing animation conversation_popin
+calling fade call transition
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 01_start_idle
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 03_suck_breast
+Playing Spine 02_grope_breast_idle
+Playing Spine 02_grope_breast_idle
+Playing Spine 02_grope_breast_idle
+Playing Spine 02_grope_breast_idle
+Playing Spine BLF_01_idle_no_dick
+Playing Spine NBF_02_insert_dick
+Playing Spine NBF_02_insert_dick_idle
+calling fade call transition
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_05_fuck_deepslow
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_04_fuck_fasthard
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_idle
+Playing Spine NBF_06_cum_inside_pullout
+Playing Spine NBF_06_cum_inside_pullout_idle
+Playing Spine NBF_06_cum_inside_pullout_idle
+Playing Spine NBF_06_cum_inside_pullout_idle
+Playing Spine NBF_06_cum_inside_pullout_idle
+Playing Spine NBF_06_cum_inside_pullout_idle
+Playing Spine NBF_06_cum_inside_pullout_idle
+calling fade call transition
+calling move call transition to room: Room21_bed
+Releasing room Ropeways (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=torirepeatable_2
+Character Spine 875fb1dd8d8c4424983be05434d7c05e destroyed
+Character Spine 70e21fdefd668b141bd8dfc8d0c6a6ec destroyed
+Character Spine 875fb1dd8d8c4424983be05434d7c05e destroyed
+Character Spine 70e21fdefd668b141bd8dfc8d0c6a6ec destroyed
+Queuing conversation tori_sex_dream (BrightBit.Conversation)
+Triggered event sleepover=tori
+Starting conversation tori_sex_dream with myself
+Character Spine 875fb1dd8d8c4424983be05434d7c05e destroyed
+Triggered event adjustwakeupenergy=gain_low
+Triggered event jump=cabina
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advanceday
+Releasing room Resort (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popout_full
+Starting conversation hotfixes with myself
+Starting conversation story_reminders with myself
+Triggered event add=jack, 2
+Triggered event sfx=phoneringloop
+Playing animation conversation_popin
+Triggered event stopsfx
+Playing animation open_handphone
+Triggered event message=erik, erik_light
+Playing animation conversation_popout_full
+Starting conversation 107_ErikLightStart with myself
+Triggered event closehp
+Triggered event add=jack, 2
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=eriklight_1
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation location_slide_left then location_enter_left
+Releasing room Lobby (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Starting conversation 108_CathKaren with myself
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Triggered event add=karen, 4
+Playing animation conversation_popin
+Playing animation CloseQuestUI
+Triggered event remove=cath, karen
+Playing animation conversation_popout_full
+Playing animation open_handphone
+Playing animation close_handphone
+Playing animation OpenQuestUI
+Releasing room Hall (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation CloseQuestUI
+Advancing time: Day 250 ( Day)
+Playing animation datetime_flip_up then datetime_flip_down
+Playing animation conversation_popin
+Starting conversation 109_ErikLight with myself
+Triggered event add=erik, 1
+Triggered event add=jack, 3
+Playing animation conversation_popin
+Triggered event remove=erik
+calling move call transition to room: Pool
+Releasing room Room21 (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 1
+Triggered event add=tori, 3
+Triggered event remove=tori
+calling move call transition to room: Dock
+Releasing room Room21_bed (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 1
+Triggered event add=hiro, 3
+Triggered event add=erik, 4
+Advancing time: Day 250 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetoevening
+Triggered event add=jack, 2
+Triggered event add=cath, 0
+Triggered event add=tori, 1
+invalid room 
+Triggered event addandsort=tori,1,2
+Triggered event addandsort=jack, 5, 10
+Triggered event flash
+Triggered event remove=cath,tori,hiro,erik
+Triggered event setzoom=z_islandflash
+Triggered event setzoom=-1
+Triggered event add=erik,4
+Triggered event add=hiro,3
+Triggered event addandsort=cath,0,2
+Triggered event add=tori,1
+Triggered event add=tori, 0
+Triggered event add=cath,1
+Triggered event setzoom=z_islandflash
+Triggered event remove= tori,jack,hiro,erik
+Triggered event add=cath,1
+Triggered event setzoom=-1
+Triggered event add= tori, 0
+Triggered event add= jack, 2
+Triggered event add= hiro, 3
+Triggered event add= erik, 4
+Triggered event remove=erik, hiro
+Triggered event add=jack, 3
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=eriklight_2
+Triggered event remove=jack,tori
+Triggered event add=cath,1
+Triggered event setzoom=z_islandflash
+Triggered event setzoom=-1
+Triggered event add=jack,3
+Triggered event add=tori,0
+Triggered event remove=tori
+Triggered event add=cath, 1
+Triggered event remove=cath
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Advancing time: Day 250 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Playing animation location_slide_left then location_enter_left
+Playing animation CloseQuestUI
+Starting conversation BasicSleep with myself
+calling move call transition to room: CabinA
+Triggered event clearfailsafe
+Triggered event setblackout=1
+Queuing conversation alone_dreams (BrightBit.Conversation)
+Triggered event generatedreamflags
+Triggered event cleardoublegain
+Triggered event advancetonight
+Starting conversation alone_dreams with myself
+Playing animation conversation_popin
+calling move call transition to room: CabinA
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advanceday
+Playing animation conversation_popout_full
+Starting conversation hotfixes with myself
+Starting conversation 110_HiroComputerStart with myself
+Triggered event add=jack, 1
+Triggered event sfx=door_knock
+Playing animation conversation_popin
+Triggered event add=gabby, 3
+Triggered event add=cath, 4
+Triggered event stopsfx
+Triggered event remove=gabby
+Triggered event add=gabby,3
+Triggered event remove=gabby
+Triggered event add=cath,3
+Triggered event remove=cath
+Triggered event add=cath,3
+Triggered event remove=cath
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=hirocomputer_1
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Releasing room Resort (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Lobby (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Starting conversation 111_ComputerCliff with myself
 Triggered event add=jack, 2
 Playing animation conversation_popin
 Playing animation conversation_popout_full
+Releasing room Pool (UnityEngine.GameObject)
 Playing animation location_slide_left then location_enter_left
-Releasing room FarmHut (UnityEngine.GameObject)
+Releasing room Dock (UnityEngine.GameObject)
 Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Riverside (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Lagoon (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room GasTanks (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Starting conversation poster_maria with myself
+Starting conversation 112_ComputerMinigame with myself
+Triggered event add=jack, 6
+Triggered event setzoom=zoomcomputer
 Playing animation conversation_popin
-Trying to load minigame: poster_maria
-Triggered event startjigsaw=poster_maria
-Successfully loaded minigame: poster_maria
+Trying to load minigame: calibrate_radio_mg_1
+Triggered event startmg=calibrate_radio_mg_1
+Successfully loaded minigame: calibrate_radio_mg_1
 Playing animation location_slide_left then location_enter_left
 Playing animation conversation_popout_full
+Starting conversation 112a_Calibrate1 with myself
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Trying to load minigame: calibrate_radio_mg_2
+Successfully loaded minigame: calibrate_radio_mg_2
+Starting conversation 112b_Calibrate2 with myself
+Playing animation conversation_popin
+invalid room 
+Playing animation conversation_popout_full
+Trying to load minigame: calibrate_radio_mg_3
+Successfully loaded minigame: calibrate_radio_mg_3
 Playing animation minigame_complete
 Playing animation frontend_topleft_enter
 Playing animation frontend_topright_enter
@@ -89,124 +581,73 @@ Playing animation frontend_topcenter_enter
 Invalid animation frontend_topcenter_enter
 Playing animation datetime_flip_down
 Playing animation location_slide_left then location_enter_left
-Starting conversation poster_maria with myself
-Triggered event unlockwallpaper=maria_poster
-Triggered event gainitem=maria_poster
-Triggered event loseitem=poster_maria
-Triggered event loseitem=poster_maria
-Triggered event loseitem=poster_maria
-Playing animation conversation_popin
-Playing animation notification
-Playing animation conversation_popout_full
-Starting conversation 000_RavenStory with myself
+Starting conversation 113_DoneCalibrating with myself
 Triggered event add=jack, 1
-Triggered event add=raven, 3
-Playing animation conversation_popin
-Triggered event setravenname
-Can't click through because of EnterCharacterName
-Playing animation QuestNotification
-Playing animation hide_during_notification
-Invalid animation hide_during_notification
-Triggered event triggerquest=exploreresort_8_end
-Triggered event triggerquest=ravenstory_1
-Playing animation conversation_popout_full
-Playing animation QuestNotification
-Playing animation hide_during_notification
-Invalid animation hide_during_notification
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room ResortBeach (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Resort (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Starting conversation drink_wine with myself
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Lounge (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Balcony (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Storage (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Basement (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Starting conversation 001_gabbyTower with myself
-Triggered event add=jack,1
-Triggered event add=gabby,3
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Playing animation location_slide_left then location_enter_left
-Releasing room Resort (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Starting conversation gather_banana with myself
-Trying to load minigame: bananatrees
-Triggered event startharvestmg=bananatrees
-Playing animation conversation_popin
-Successfully loaded minigame: bananatrees
-Playing animation location_slide_left then location_enter_left
-Playing animation conversation_popout_full
-Playing animation frontend_topleft_enter
-Playing animation frontend_topright_enter
-Playing animation frontend_topcenter_enter
-Invalid animation frontend_topcenter_enter
-Playing animation datetime_flip_down
-Playing animation location_slide_left then location_enter_left
-Advancing time: Day 14 ( Evening)
-Playing animation datetime_flip_up then datetime_flip_down
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Lobby (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room RadioTower (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room ControlRoom (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room TowerPath (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Lagoon (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation OpenQuestUI
-Playing animation location_slide_left then location_enter_left
-Playing animation CloseQuestUI
-Playing animation location_slide_left then location_enter_left
-Playing animation OpenQuestUI
-Playing animation location_slide_left then location_enter_left
-Playing animation CloseQuestUI
-Starting conversation clean_upperdeck with myself
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Engine (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Releasing room Bridge (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Playing animation location_slide_left then location_enter_left
-Releasing room Upperdeck (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Playing animation location_slide_left then location_enter_left
-Releasing room Wreck (UnityEngine.GameObject)
-Playing animation location_slide_left then location_enter_left
-Starting conversation BasicSleep with myself
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Starting conversation BasicSleep with myself
-Playing animation conversation_popin
-Triggered event setblackout=1
-Advancing time: Day 14 ( Night)
+Advancing time: Day 251 ( Day)
 Playing animation datetime_flip_up then datetime_flip_down
 Triggered event advancetime
-Triggered event setblackout=0
+Triggered event setzoominstant=-1
+Triggered event unlockwallpaper=cath_gabby_1
+Triggered event unlockwallpaper=cath_gabby_2
+Triggered event unlockwallpaper=cath_gabby_3
+Playing animation conversation_popin
+Playing animation notification
+Playing animation notification
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=hirocomputer_2
 Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation notification
+Playing animation location_slide_left then location_enter_left
+Releasing room CabinA (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation CloseQuestUI
+Releasing room Gorge (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Cliff (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Releasing room Bunker (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Starting conversation 114_AfterCalibrate with myself
+Triggered event add=jack, 1
+Triggered event add=gabby, 3
+Triggered event add=cath, 4
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=hirocomputer_3
+Triggered event setzoominstant=-1
+Playing animation conversation_popin
+Triggered event sfx=phoneringloop
+Triggered event stopsfx
+Playing animation open_handphone
+Triggered event message=tori, tori_calibrate
+Playing animation conversation_popout_full
+Starting conversation 115_ToriCalibrate with myself
+Triggered event add=jack, 1
+Triggered event add=gabby, 3
+Triggered event add=cath, 4
+Trying to unlock wallpaper tori_1 more than once
+Trying to unlock wallpaper tori_2 more than once
+Trying to unlock wallpaper tori_cosplay_1 more than once
+Triggered event closehp
+Playing animation conversation_popin
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=enginefound_1
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Advancing time: Day 251 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Advancing time: Day 251 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Releasing room SecretRoom (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
 Starting conversation BasicSleep with myself
 calling move call transition to room: CabinA
 Triggered event clearfailsafe
@@ -223,20 +664,338 @@ Triggered event advanceday
 Playing animation conversation_popout_full
 Starting conversation hotfixes with myself
 Playing animation conversation_popout_full
+Playing animation open_handphone
+Playing animation close_handphone
+Playing animation open_handphone
+Playing animation close_handphone
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Releasing room Lagoon (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room RadioTower (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation 116_EngineFound with myself
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Playing animation conversation_popin
+calling move call transition to room: Resort
+Releasing room TowerPath (UnityEngine.GameObject)
 Playing animation location_slide_left then location_enter_left
 Playing animation location_slide_left then location_enter_left
-Releasing room Poopdeck (UnityEngine.GameObject)
+Triggered event add=cath, 0
+Triggered event add=jack, 1
+Triggered event add=grace, 2
+Triggered event add=rachel, 3
+Triggered event add=raven, 4
+invalid room 
+Triggered event remove=rachel, grace, raven
+Triggered event add=jack,3
+calling move call transition to room: Lobby
+Releasing room ControlRoom (UnityEngine.GameObject)
 Playing animation location_slide_left then location_enter_left
-Releasing room CabinB (UnityEngine.GameObject)
 Playing animation location_slide_left then location_enter_left
-Starting conversation 004_cathWifiChat with myself
+Triggered event addandsort=hiro, 0,2
+Triggered event add=erik, 1
+Triggered event add=jack, 3
+Triggered event add=cath, 4
+calling fade call transition
+calling move call transition to room: ResortBeach
+Releasing room CabinA (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event remove=erik, hiro
+Triggered event add=jack, 7
+Triggered event add=cath, 8
+Triggered event add=tori, 9
+Triggered event setzoom=z_motorparts
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=enginefound_2
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Releasing room Wreck (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Engine (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation 117_KarenEngine with myself
+Triggered event add=jack, 1
+Triggered event add=karen, 3
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Releasing room Lobby (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Basement (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation 118_MotorboatParts with myself
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Releasing room Storage (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room ResortBeach (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Wreck (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation CatalogOpen with myself
+Triggered event remove=karen
+Triggered event triggerquest=karencatalog_2
+Triggered event opencatalog
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Playing animation catalog_popout
+Starting conversation CatalogClose with myself
+Triggered event add=karen, 3
+Triggered event add=jack, 1
+Playing animation conversation_popin
+Playing animation conversation_popout_full
+Playing animation location_slide_left then location_enter_left
+Releasing room Engine (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Releasing room Resort (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation 118_MotorboatParts with myself
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Playing animation conversation_popin
+calling move call transition to room: ResortBeach
+Releasing room Lobby (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=cath, 7
+Triggered event add=jack, 8
+Triggered event setzoom=z_motorparts
+Trying to load minigame: assemble_engine
+Triggered event startmg=assemble_engine
+Successfully loaded minigame: assemble_engine
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popout_full
+Playing animation frontend_topleft_enter
+Playing animation frontend_topright_enter
+Playing animation frontend_topcenter_enter
+Invalid animation frontend_topcenter_enter
+Playing animation datetime_flip_down
+Playing animation location_slide_left then location_enter_left
+Starting conversation 119_MotorboatFixed with myself
+Triggered event add=jack, 8
+Triggered event add=cath, 7
+Triggered event setzoom=z_motorparts
+Playing animation conversation_popin
+Triggered event add=jack, 7
+Triggered event add=cath, 8
+calling fade call transition
+Triggered event add=jack,1
+Triggered event add=cath,0
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=enginefound_3
+Triggered event setzoom=-1
+Triggered event triggerquest=rescuerob_1
 Triggered event add=jack,1
 Triggered event add=cath,3
-Playing animation conversation_popin
-Can't click through because of SaveLoadUI
+Triggered event epilogue
+Triggered event epilogueconfirm
+Can't click through because of EpiloguePopup
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
 Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing animation conversation_popin
+Starting conversation 120_RescueRob with myself
+Triggered event epilogue
+Triggered event add=jack, 1
+Triggered event add=cath, 3
+Triggered event setzoominstant=-1
+Playing animation conversation_popin
+Triggered event epilogueconfirm
+Can't click through because of EpiloguePopup
+Queuing conversation 121_Epilogue (BrightBit.Conversation)
+Triggered event queueconversation=121_epilogue
+Starting conversation 121_Epilogue with myself
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Playing Spine rob_island_1
+Playing Spine rob_island_2
+Playing Spine rob_island_3
+Playing Spine rob_island_3
+Playing Spine rob_island_3
+Playing Spine rob_island_3
+Playing Spine rob_island_3
+Playing Spine rob_island_3
+Playing Spine rob_island_4
+Playing Spine rob_island_4
+Playing Spine rob_island_4
+Playing Spine rob_island_5
+Playing Spine rob_island_5
+Playing Spine rob_island_5
+Playing Spine rob_island_5
+Playing Spine rob_island_5
+Playing Spine rob_island_5
+Triggered event setblackout=0
+Triggered event add=erik, 0
+Triggered event add=tori, 1
+Triggered event add=jack, 2
+Triggered event add=rob, 3
+Triggered event add=cath, 4
+Advancing time: Day 252 ( Day)
+Advancing time: Day 252 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetoevening
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=rescuerob_2
+Triggered event remove=erik
+Triggered event remove=tori
+Triggered event remove=cath
+Triggered event remove=rob
+calling move call transition to room: CabinA
+Releasing room Basement (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 8
+calling fade call transition
+calling move call transition to room: Lounge
+Releasing room Storage (UnityEngine.GameObject)
+Playing animation location_slide_left then location_enter_left
+Playing animation location_slide_left then location_enter_left
+Triggered event add=jack, 1
+Triggered event add=tori, 3
+Triggered event remove=tori
+Triggered event addandsort=olga, 4,2
+Triggered event add=karen, 3
+Triggered event add= jack, 1
+Triggered event remove=karen
+Triggered event remove=olga
+Triggered event remove=tori
+Triggered event add=jack, 1
+Triggered event add= andrea, 3
+Triggered event add= jenn, 4
+Triggered event remove=andrea, jenn
+Triggered event remove=tori
+Triggered event add=misun, 3
+Triggered event add=reyna, 4
+Triggered event add=jack, 1
+Triggered event remove=misun, reyna
+Triggered event remove=tori
+Triggered event add=tori, 2
+Triggered event add=raven, 3
+Triggered event add=maria, 4
+Triggered event add=jack,0
+Triggered event remove=tori, raven, maria
+Triggered event remove=tori
+Triggered event add=jack, 1
+Triggered event add=grace,3
+Triggered event add=rachel,4
+Triggered event remove=grace
+Triggered event remove=rachel
+Triggered event remove=tori
+Triggered event add=dog, 2
+Triggered event add=cath, 3
+Triggered event add=gabby, 4
+Triggered event add=jack,0
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event sfx=bark
+Character Spine 1bda4d85e315db543bc9aafa43b61f03 destroyed
+Triggered event sfx=bark
+Triggered event sfx=bark
+Triggered event remove=cath
+Triggered event remove=gabby
+Triggered event remove=dog
+Triggered event remove=tori
+Triggered event add=jack, 1
+Triggered event add=rob, 3
+Triggered event add=rob, 0
+Triggered event add=jack, 1
+Triggered event add=erik, 3
+Triggered event addandsort=hiro, 4,2
+Triggered event remove=erik, hiro
+Triggered event add=cath, 3
+Triggered event add=gabby, 4
+Triggered event remove=rob
+Triggered event remove=cath, gabby
+Triggered event add=jack, 4
+Triggered event add=misun, 0
+Triggered event add=maria, 1
+Triggered event add=reyna, 2
+Triggered event remove=misun,maria, reyna
+Triggered event add=jack, 0
+Triggered event add=raven, 2
+Triggered event add=tori, 3
+Triggered event add=karen, 4
+Triggered event remove=karen, raven, tori
+Triggered event add=grace, 2
+Triggered event add=rachel, 3
+Triggered event add=olga, 4
+Triggered event remove=olga, grace, rachel
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Triggered event add=andrea, 4
+Triggered event remove=jenn, andrea
+Triggered event add=cath, 3
+Triggered event add=gabby, 4
+Triggered event setblackout=1
+calling fade call transition
+Playing Spine end_comic_1
+Playing Spine end_comic_2
+calling fade call transition
+Triggered event creditsroll
+Triggered event setgamefinished
+Playing animation conversation_popout_full
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for G:/SteamLibrary/steamapps/common/Paradise Lust/Paradise Lust_Data/sharedassets1.resource
+Playing animation thank_you
+Playing animation location_slide_left then location_enter_left
+Hiding Main Menu
+Character Spine Default destroyed
+Character Spine Nude destroyed
 Character Spine Default destroyed
 Character Spine Default destroyed
+Character Spine default destroyed
+Character Spine Default_holding destroyed
+Character Spine Backface destroyed
+Character Spine Nude destroyed
+Character Spine Default destroyed
+Character Spine Peck_Cath destroyed
+Character Spine Peck_rachel destroyed
+Character Spine Peck_Grace destroyed
+Character Spine Peck_Gabby destroyed
+Character Spine Default_holding2 destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine Default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Character Spine dogrun destroyed
 Character Spine default destroyed
 Character Spine Default destroyed
 Character Spine default destroyed
@@ -244,70 +1003,70 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1284 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 58396 frames, [32.0 KB-64.0 KB]: 2066 frames, [64.0 KB-128.0 KB]: 7624 frames, [128.0 KB-256.0 KB]: 23 frames, [1.0 MB-2.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 2121 frames, [2.0 KB-4.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 157220 frames, [32.0 KB-64.0 KB]: 469190 frames, [64.0 KB-128.0 KB]: 15183 frames, [128.0 KB-256.0 KB]: 2922 frames, [1.0 MB-2.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 7.4 MB
       Peak Allocated Bytes 7.1 MB
       Overflow Count 2
     [ALLOC_TEMP_Job.Worker 18]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 507.5 KB
-      Overflow Count 12687
+      Peak Allocated Bytes 506.5 KB
+      Overflow Count 10206
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.3 KB
+      Peak Allocated Bytes 6.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.4 KB
+      Peak Allocated Bytes 2.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 16]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 5.3 KB
+      Peak Allocated Bytes 6.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 38.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 17]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.0 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 14]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 37.5 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 36.9 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 3.9 KB
+      Peak Allocated Bytes 10.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 1.6 KB
+      Peak Allocated Bytes 5.8 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
       Initial Block Size 64.0 KB
@@ -317,77 +1076,77 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 5.8 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 6.3 KB
+      Peak Allocated Bytes 4.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.5 KB
+      Peak Allocated Bytes 8.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 37.9 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 0.5 KB
+      Peak Allocated Bytes 9.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 3.1 KB
+      Peak Allocated Bytes 6.3 KB
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.Worker 9]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 453 B
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 38.9 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 6]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.4 KB
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 5]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 37.5 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.6 KB
+      Peak Allocated Bytes 4.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 13]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 38.6 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_EnlightenWorker] x 10
       Initial Block Size 64.0 KB
@@ -397,17 +1156,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 15]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 6.4 KB
+      Peak Allocated Bytes 4.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 6.3 KB
+      Peak Allocated Bytes 5.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 7]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 456 B
+      Peak Allocated Bytes 10.5 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
@@ -416,75 +1175,75 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 9]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 8]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 38.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 10]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.1 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 256.0 KB
       Overflow Count 0
     [ALLOC_TEMP_CloudJob.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 3.3 KB
+      Peak Allocated Bytes 5.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 15]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 37.8 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 39.0 KB
+      Current Block Size 460.0 KB
+      Peak Allocated Bytes 247.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
-      Current Block Size 108.0 KB
-      Peak Allocated Bytes 105.1 KB
+      Current Block Size 84.0 KB
+      Peak Allocated Bytes 83.1 KB
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 1260
+  Peak main deferred allocation count 28130
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 156113
-        32B: 7 Subsections = 3584 buckets. Failed count: 938339
-        48B: 15 Subsections = 5120 buckets. Failed count: 469465
-        64B: 208 Subsections = 53248 buckets. Failed count: 43301
-        80B: 16 Subsections = 3276 buckets. Failed count: 120199
-        96B: 4 Subsections = 682 buckets. Failed count: 16545
-        112B: 2 Subsections = 292 buckets. Failed count: 471364
-        128B: 2 Subsections = 256 buckets. Failed count: 17156
+        16B: 2 Subsections = 2048 buckets. Failed count: 1344941
+        32B: 7 Subsections = 3584 buckets. Failed count: 2540883
+        48B: 15 Subsections = 5120 buckets. Failed count: 8644648
+        64B: 208 Subsections = 53248 buckets. Failed count: 43310
+        80B: 16 Subsections = 3276 buckets. Failed count: 824553
+        96B: 4 Subsections = 682 buckets. Failed count: 29744
+        112B: 2 Subsections = 292 buckets. Failed count: 701148
+        128B: 2 Subsections = 256 buckets. Failed count: 44313
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 1283 frames, [16.0 MB-32.0 MB]: 68118 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 2125 frames, [16.0 MB-32.0 MB]: 298409 frames, [32.0 MB-64.0 MB]: 346108 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
-      Peak Allocated memory 30.9 MB
-      Peak Large allocation bytes 0 B
+      Peak Allocated memory 49.1 MB
+      Peak Large allocation bytes 12.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 515 frames, [8.0 MB-16.0 MB]: 7 frames, [16.0 MB-32.0 MB]: 13 frames, [32.0 MB-64.0 MB]: 68732 frames, [64.0 MB-128.0 MB]: 134 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 624 frames, [8.0 MB-16.0 MB]: 700 frames, [16.0 MB-32.0 MB]: 26 frames, [32.0 MB-64.0 MB]: 643063 frames, [64.0 MB-128.0 MB]: 2229 frames
       Requested Block Size 16.0 MB
-      Peak Block count 5
-      Peak Allocated memory 112.4 MB
+      Peak Block count 8
+      Peak Allocated memory 118.3 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -503,7 +1262,7 @@ Memory Statistics:
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
-  Used Block Count 25
+  Used Block Count 26
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
@@ -513,52 +1272,52 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 156113
-        32B: 7 Subsections = 3584 buckets. Failed count: 938339
-        48B: 15 Subsections = 5120 buckets. Failed count: 469465
-        64B: 208 Subsections = 53248 buckets. Failed count: 43301
-        80B: 16 Subsections = 3276 buckets. Failed count: 120199
-        96B: 4 Subsections = 682 buckets. Failed count: 16545
-        112B: 2 Subsections = 292 buckets. Failed count: 471364
-        128B: 2 Subsections = 256 buckets. Failed count: 17156
+        16B: 2 Subsections = 2048 buckets. Failed count: 1344941
+        32B: 7 Subsections = 3584 buckets. Failed count: 2540883
+        48B: 15 Subsections = 5120 buckets. Failed count: 8644648
+        64B: 208 Subsections = 53248 buckets. Failed count: 43310
+        80B: 16 Subsections = 3276 buckets. Failed count: 824553
+        96B: 4 Subsections = 682 buckets. Failed count: 29744
+        112B: 2 Subsections = 292 buckets. Failed count: 701148
+        128B: 2 Subsections = 256 buckets. Failed count: 44313
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 788 frames, [64.0 KB-128.0 KB]: 501 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 3224 frames, [1.0 MB-2.0 MB]: 60438 frames, [2.0 MB-4.0 MB]: 4432 frames, [8.0 MB-16.0 MB]: 16 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 13.4 MB
-      Peak Large allocation bytes 0 B
-    [ALLOC_GFX_THREAD]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 1047 frames, [2.0 MB-4.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 67630 frames, [16.0 MB-32.0 MB]: 722 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 798 frames, [64.0 KB-128.0 KB]: 1329 frames, [128.0 KB-256.0 KB]: 3 frames, [256.0 KB-0.5 MB]: 12 frames, [0.5 MB-1.0 MB]: 33776 frames, [1.0 MB-2.0 MB]: 181337 frames, [2.0 MB-4.0 MB]: 155656 frames, [4.0 MB-8.0 MB]: 230884 frames, [8.0 MB-16.0 MB]: 42840 frames, [16.0 MB-32.0 MB]: 7 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 17.8 MB
+      Peak Allocated memory 17.0 MB
       Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 1069 frames, [2.0 MB-4.0 MB]: 21 frames, [4.0 MB-8.0 MB]: 41 frames, [8.0 MB-16.0 MB]: 33913 frames, [16.0 MB-32.0 MB]: 604063 frames, [32.0 MB-64.0 MB]: 5576 frames, [64.0 MB-128.0 MB]: 109 frames, [128.0 MB-256.0 MB]: 74 frames, [256.0 MB-0.50 GB]: 1776 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 363.2 MB
+      Peak Large allocation bytes 323.0 MB
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 14
+  Peak main deferred allocation count 38
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 156113
-        32B: 7 Subsections = 3584 buckets. Failed count: 938339
-        48B: 15 Subsections = 5120 buckets. Failed count: 469465
-        64B: 208 Subsections = 53248 buckets. Failed count: 43301
-        80B: 16 Subsections = 3276 buckets. Failed count: 120199
-        96B: 4 Subsections = 682 buckets. Failed count: 16545
-        112B: 2 Subsections = 292 buckets. Failed count: 471364
-        128B: 2 Subsections = 256 buckets. Failed count: 17156
+        16B: 2 Subsections = 2048 buckets. Failed count: 1344941
+        32B: 7 Subsections = 3584 buckets. Failed count: 2540883
+        48B: 15 Subsections = 5120 buckets. Failed count: 8644648
+        64B: 208 Subsections = 53248 buckets. Failed count: 43310
+        80B: 16 Subsections = 3276 buckets. Failed count: 824553
+        96B: 4 Subsections = 682 buckets. Failed count: 29744
+        112B: 2 Subsections = 292 buckets. Failed count: 701148
+        128B: 2 Subsections = 256 buckets. Failed count: 44313
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 44880 frames, [2.0 MB-4.0 MB]: 24521 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 34796 frames, [2.0 MB-4.0 MB]: 611846 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
-      Peak Allocated memory 2.3 MB
+      Peak Allocated memory 3.1 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [0.5 MB-1.0 MB]: 1043 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 47 frames, [16.0 MB-32.0 MB]: 71 frames, [32.0 MB-64.0 MB]: 68235 frames
+      Peak usage frame count: [0.5 MB-1.0 MB]: 1043 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 43 frames, [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 846 frames, [16.0 MB-32.0 MB]: 71 frames, [32.0 MB-64.0 MB]: 644636 frames
       Requested Block Size 4.0 MB
-      Peak Block count 15
-      Peak Allocated memory 59.8 MB
+      Peak Block count 16
+      Peak Allocated memory 61.5 MB
       Peak Large allocation bytes 12.0 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -567,23 +1326,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 156113
-        32B: 7 Subsections = 3584 buckets. Failed count: 938339
-        48B: 15 Subsections = 5120 buckets. Failed count: 469465
-        64B: 208 Subsections = 53248 buckets. Failed count: 43301
-        80B: 16 Subsections = 3276 buckets. Failed count: 120199
-        96B: 4 Subsections = 682 buckets. Failed count: 16545
-        112B: 2 Subsections = 292 buckets. Failed count: 471364
-        128B: 2 Subsections = 256 buckets. Failed count: 17156
+        16B: 2 Subsections = 2048 buckets. Failed count: 1344941
+        32B: 7 Subsections = 3584 buckets. Failed count: 2540883
+        48B: 15 Subsections = 5120 buckets. Failed count: 8644648
+        64B: 208 Subsections = 53248 buckets. Failed count: 43310
+        80B: 16 Subsections = 3276 buckets. Failed count: 824553
+        96B: 4 Subsections = 682 buckets. Failed count: 29744
+        112B: 2 Subsections = 292 buckets. Failed count: 701148
+        128B: 2 Subsections = 256 buckets. Failed count: 44313
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 788 frames, [4.0 KB-8.0 KB]: 1845 frames, [8.0 KB-16.0 KB]: 100 frames, [16.0 KB-32.0 KB]: 66668 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 798 frames, [4.0 KB-8.0 KB]: 5081 frames, [8.0 KB-16.0 KB]: 644 frames, [16.0 KB-32.0 KB]: 640119 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 31.8 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1093 frames, [8.0 KB-16.0 KB]: 101 frames, [16.0 KB-32.0 KB]: 3 frames, [32.0 KB-64.0 KB]: 81 frames, [64.0 KB-128.0 KB]: 13 frames, [0.5 MB-1.0 MB]: 1375 frames, [2.0 MB-4.0 MB]: 7391 frames, [4.0 MB-8.0 MB]: 59344 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1933 frames, [8.0 KB-16.0 KB]: 102 frames, [16.0 KB-32.0 KB]: 2 frames, [32.0 KB-64.0 KB]: 79 frames, [64.0 KB-128.0 KB]: 15 frames, [0.5 MB-1.0 MB]: 3802 frames, [1.0 MB-2.0 MB]: 137 frames, [2.0 MB-4.0 MB]: 42096 frames, [4.0 MB-8.0 MB]: 598476 frames
       Requested Block Size 2.0 MB
       Peak Block count 3
-      Peak Allocated memory 4.8 MB
+      Peak Allocated memory 5.6 MB
       Peak Large allocation bytes 0 B
