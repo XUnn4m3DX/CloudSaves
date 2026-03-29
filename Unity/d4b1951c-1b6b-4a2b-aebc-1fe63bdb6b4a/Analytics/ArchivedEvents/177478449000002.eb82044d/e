@@ -1,0 +1,5 @@
+(s)|{"appid":"d4b1951c-1b6b-4a2b-aebc-1fe63bdb6b4a","userid":"f60ad6de165f7004c965d66cb4dc0829","sessionid":7151382505472784810,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2021.3.45f2","sdk_rev":"88f88f591b2e","session_count":2,"localprojectid":"b69df51dae07b604b84a8ef2801d3bc9","build_guid":"d228ae47833f14c38beaa2c90c5d268c","deviceid":"e0b17725b4690ffb406b753d22a449427e602155","identity_token":"f60ad6de165f7004c965d66cb4dc0829"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"ts":1774784490559,"t_since_start":93124140,"name":"started_ScarlettFlash"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":120,"local_time_offset":-28800000,"ts":1774784518514,"t_since_start":121079318}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1774784518514,"t_since_start":121079661}}
