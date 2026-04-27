@@ -1,0 +1,4991 @@
+Mono path[0] = 'G:/SteamLibrary/steamapps/common/SinnersLanding/pg2_Data/Managed'
+Mono config path = 'G:/SteamLibrary/steamapps/common/SinnersLanding/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Initialize engine version: 2021.3.45f2 (88f88f591b2e)
+[Subsystems] Discovering subsystems at path G:/SteamLibrary/steamapps/common/SinnersLanding/pg2_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.8180
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.235 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 121.530900 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+----------------------------------------- VERSION 1.0.1e --------------------------------------------
+Loading game. Version : 1.0.1e
+The referenced script (pg2.ToolSet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Tools') is missing!
+Game starting : version 1.0.1e, platform: WindowsPlayer
+System Locale : en-MY
+CLOSE MAP: False
+Asset Ref doesn't exist: open_popup
+CLOSE MAP: False
+Go Location: MainMenu
+Audio Clip is null
+CLOSE MAP: False
+CLOSE MAP: False
+Hiding Main Menu
+Removed Flag: DAY11
+Go Location: Courtyard
+Removed Flag: DAY13
+Go Location: Courtyard
+STEAM ACHIEVEMENT: ocean_view
+STEAM ACHIEVEMENT: unclog_the_toilet
+Go Location: Inn
+Triggered event add=ros, 1
+Triggered event add=tri, 3
+Triggered event add=ros, 1
+Triggered event add=tri, 3
+Go Location: Passage
+Go Location: Backyard
+Audio Clip is null
+Character Spine Default(Clone) destroyed
+Go Location: Passage
+Audio Clip is null
+Go Location: Backyard
+Audio Clip is null
+Go Location: Passage
+Audio Clip is null
+Go Location: Cellar
+Audio Clip is null
+Triggered event add=tri, 2
+Triggered event gainitem=item_bucket_empty
+Go Location: Passage
+Audio Clip is null
+Go Location: Cellar
+Audio Clip is null
+Go Location: Passage
+Audio Clip is null
+Go Location: Inn
+Audio Clip is null
+Triggered event add=ros, 1
+Triggered event add=tri, 3
+Complete Quest: BUM_Llama_Food2
+Triggered event completequest=bum_llama_food2
+Removed Flag: got_item_bucket_empty
+Triggered event loseitem=item_bucket_empty
+Triggered event add=ros, 0
+Triggered event remove=ros
+Triggered event add=ros, 1
+Removed Flag: Evening
+Advancing time: Day 13 ( Night)
+Triggered event advancetime
+Triggered event gainitem=item_bucket_full
+UNABLE TO REMOVE: (1) OF (item_bucket_empty). NOT ENOUGH IN INVENTORY
+Triggered event loseitem=item_bucket_empty
+Go Location: Dockside
+Audio Clip is null
+Triggered event add=tri, 3
+Triggered event add=bum, 1
+Triggered event triggersound=llama_snort
+Removed Flag: got_item_hay
+Triggered event loseitem=item_hay
+Triggered event triggersound=llama_snort
+Removed Flag: got_item_bucket_full
+Triggered event loseitem=item_bucket_full
+Triggered event gainitem=item_bucket_empty
+Triggered event triggersound=llama_snort
+Triggered event triggersound=llama_snort
+Triggered event triggersound=llama_snort
+Removed Flag: got_item_fropweed
+Triggered event loseitem=item_fropweed
+calling fade call transition
+Triggered event advancetime
+Triggered event moveall=stables
+Go Location: stables
+Triggered event triggersound=llama_hock
+Complete Quest: BUM_Llama_Food
+Triggered event completequest=bum_llama_food
+Triggered event unlockroom=crossroads
+Go Location: crossroads
+Triggered event go=crossroads
+Triggered event unlockroom=highcamp
+STEAM ACHIEVEMENT: animal_husbandry
+TRIGGER ACHIEVEMENT: animal_husbandry
+Triggered event achievement=animal_husbandry
+Releasing room Courtyard (UnityEngine.GameObject)
+Invalid animation AchievementEnter
+Releasing room inn (UnityEngine.GameObject)
+Quest tyr_iron_ingot_needs already in progress. 
+Triggered event triggerquest=tyr_iron_ingot_needs
+Invalid animation AchievementExit
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Releasing room Passage (UnityEngine.GameObject)
+APPLY SEX HEALTH (completed_DAW_Ceremony_2): 5
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Foyer
+Audio Clip is null
+Releasing room Backyard (UnityEngine.GameObject)
+Go Location: Inn
+Audio Clip is null
+Releasing room Cellar (UnityEngine.GameObject)
+Triggered event add=tri,3
+Triggered event add=ros,1
+Triggered event add=ros, 1
+Triggered event add=ros,1
+Complete Quest: ROS_Backyard_Romance_1
+Triggered event completequest=ros_backyard_romance_1
+Triggered event unlockroom=passage
+Triggered event unlockroom=backyard
+Removed Flag: Morning
+Advancing time: Day 14 ( Day)
+Triggered event advancetime
+Go Location: Passage
+Releasing room Dockside (UnityEngine.GameObject)
+Go Location: Backyard
+Audio Clip is null
+Releasing room Stables (UnityEngine.GameObject)
+Character Spine Default(Clone) destroyed
+Triggered event add=tri,1
+Triggered event gainitem=item_wooden_branch
+Complete Quest: ROS_Backyard_Romance_2
+Triggered event completequest=ros_backyard_romance_2
+Go Location: Passage
+Audio Clip is null
+Go Location: Inn
+Audio Clip is null
+Triggered event add=tri,3
+Triggered event add=ros,1
+Go Location: Backroom
+Audio Clip is null
+Releasing room Crossroads (UnityEngine.GameObject)
+Removed Flag: Day
+Advancing time: Day 14 ( Evening)
+Removed Flag: Evening
+Advancing time: Day 14 ( Night)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Removed Flag: Morning
+Advancing time: Day 15 ( Day)
+Removed Flag: Day
+Advancing time: Day 15 ( Evening)
+Removed Flag: Evening
+Advancing time: Day 15 ( Night)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Sanctum
+Releasing room Highcamp (UnityEngine.GameObject)
+Go Location: Hall
+Audio Clip is null
+Releasing room RoomTRI (UnityEngine.GameObject)
+Go Location: Temple
+Audio Clip is null
+Releasing room Foyer (UnityEngine.GameObject)
+Go Location: Courtyard
+Releasing room inn (UnityEngine.GameObject)
+Go Location: Temple
+Audio Clip is null
+Go Location: Square
+Releasing room Passage (UnityEngine.GameObject)
+Go Location: Smithy
+Releasing room Backyard (UnityEngine.GameObject)
+Triggered event add=tri,1
+Triggered event add=pog,3
+Trying to load minigame: scratch_club_1
+Triggered event startmg=scratch_club_1
+Successfully loaded minigame: scratch_club_1 False
+Queuing conversation Scratch_Club_1_1 (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+SCRATCH MG: COMPLETE
+Go Location: Smithy
+Triggered event add=tri,1
+Triggered event add=pog,3
+Removed Flag: Morning
+Advancing time: Day 16 ( Day)
+Triggered event advancetime
+Triggered event gainweapon=club
+Removed Flag: got_item_wooden_branch
+Triggered event loseitem=item_wooden_branch
+Destroying minigame: scratch_club_1(Clone)
+Complete Quest: POG_Backyard_Romance_3
+Triggered event completequest=pog_backyard_romance_3
+Go Location: Inn
+Releasing room Backroom (UnityEngine.GameObject)
+Triggered event add=tri,3
+Triggered event add=ros,1
+Complete Quest: ROS_Backyard_Romance_4
+Triggered event completequest=ros_backyard_romance_4
+Triggered event add=tri,3
+Triggered event add=ros,1
+Queuing conversation ROS_Training (BrightBit.Conversation)
+Triggered event startconvo=ros_training
+Removed Flag: Day
+Advancing time: Day 16 ( Evening)
+Triggered event advancetime
+Triggered event add=ros ,1
+Triggered event add=tri, 3
+Triggered event givereward=train_bar_earn_good
+Triggered event add=ros, 2
+Triggered event remove=ros
+Queuing conversation ROS_Backyard_Romance_5 (BrightBit.Conversation)
+Triggered event startconvo=ros_backyard_romance_5
+Triggered event add=tri,3
+Triggered event add=ros,1
+Triggered event add=ros,5
+Triggered event add=ros, 2
+Triggered event add=ros, 2
+Triggered event add=ros,5
+Triggered event add=ros, 1
+Complete Quest: ROS_Backyard_Romance_5
+Triggered event completequest=ros_backyard_romance_5
+PLAYING REWARDS
+[Sprite Found]  ||  || goodgold
+INCREASE STAT: CHA
+CASH reward: 60
+Triggered event add=tri,3
+Triggered event add=ros,1
+Triggered event moveall=backroom
+Releasing room Sanctum (UnityEngine.GameObject)
+Go Location: backroom
+Character Spine MORProxy destroyed
+Trying to load minigame: ros_02_1
+Triggered event startmg=ros_02_1
+Successfully loaded minigame: ros_02_1 False
+Queuing conversation ROS_02_1_1 (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+SETUP BRUSH: False || False
+ON NEXT MINIGAME (ros_02_1(Clone)): False
+Destroying minigame: ros_02_1(Clone)
+Trying to load minigame: ros_02_2
+Successfully loaded minigame: ros_02_2 False
+SETUP BRUSH: False || False
+COLOR MG: FADE IN COMPLETE
+Go Location: Backroom
+Triggered event add=tri,3
+Triggered event add=ros,1
+Removed Flag: Evening
+Advancing time: Day 16 ( Night)
+Triggered event advancetime
+COLOR MG: FADE IN COMPLETE
+Destroying minigame: ros_02_2(Clone)
+Triggered event moveall=foyer
+Triggered event add=tri,6
+Triggered event add=ros,5
+Triggered event setzoom=zoom_painting
+Releasing room Hall (UnityEngine.GameObject)
+Go Location: foyer
+Triggered event add=ros, 1
+Triggered event add=tri, 3
+Triggered event setzoom=-1
+Triggered event add=ros, 7
+Triggered event add=ros, 2
+Triggered event remove=ros
+Complete Quest: ROS_Backyard_Romance_6
+Triggered event completequest=ros_backyard_romance_6
+Triggered event add=ros,2
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Releasing room Temple (UnityEngine.GameObject)
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Removed Flag: Morning
+Advancing time: Day 17 ( Day)
+Removed Flag: Day
+Advancing time: Day 17 ( Evening)
+Removed Flag: Evening
+Advancing time: Day 17 ( Night)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Crossroads
+Releasing room Courtyard (UnityEngine.GameObject)
+Go Location: Highcamp
+Audio Clip is null
+Releasing room Square (UnityEngine.GameObject)
+Complete Quest: TYR_Highcamp_A
+Triggered event completequest=tyr_highcamp_a
+Quest tyr_highcamp_b already in progress. 
+Triggered event triggerquest=tyr_highcamp_b
+Triggered event unlockroom=outcrop
+Releasing room Smithy (UnityEngine.GameObject)
+Character Spine PogPoxy destroyed
+ACTIVATE FLOWERS (flower_gardenia):True || False || True || False || False
+Trying to load minigame: Flower_Gardenia
+Successfully loaded minigame: Flower_Gardenia False
+Go Location: Minigames
+Audio Clip is null
+Go Location: Highcamp
+Removed Flag: Morning
+Advancing time: Day 18 ( Day)
+Destroying minigame: Flower_Gardenia(Clone)
+Go Location: Outcrop
+Audio Clip is null
+Complete Quest: TYR_Highcamp_B
+Triggered event completequest=tyr_highcamp_b
+Quest tyr_highcamp_c already in progress. 
+Triggered event triggerquest=tyr_highcamp_c
+Triggered event unlockroom=hotspring
+Releasing room inn (UnityEngine.GameObject)
+Go Location: Hotspring
+Complete Quest: TYR_Highcamp_C
+Triggered event completequest=tyr_highcamp_c
+Audio Clip is null
+calling fade call transition
+Triggered event add=tri,3
+Go Location: hotspring_convo
+Triggered event go=hotspring_convo
+Triggered event add=tri, 3
+Releasing room Backroom (UnityEngine.GameObject)
+Audio Clip is null
+calling fade call transition
+Triggered event add=tri, 3
+Triggered event add=tyr, 1
+Start Spanking: tyr_hotspring.memory
+Triggered event startspanking=tyr_hotspring
+Character Spine 6066fbf66ff3d3a4d919329763bbfaec destroyed
+Force Save called
+calling fade call transition
+GET AUDIO: TYRA_Intense_05
+SEX SCENE ID DOESN'T EXIST: skipped_tyr1
+Triggered event hadsex=skipped_tyr1
+calling fade call transition
+Triggered event add=tyr, 1
+Triggered event add=tri, 3
+Stop Spanking: False
+Triggered event stopspanking
+calling fade call transition
+calling move call transition to room: Hotspring
+Go Location: Hotspring
+Go Location: hotspring
+Triggered event go=hotspring
+Triggered event add=tri, 3
+Triggered event add=tyr, 1
+Quest: (tyr_highcamp_c) hasn't been started yet.
+Triggered event completequest=tyr_highcamp_c
+Removed Flag: Day
+Advancing time: Day 18 ( Evening)
+Removed Flag: Evening
+Advancing time: Day 18 ( Night)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Queuing conversation TRI_TYR_Bath (BrightBit.Conversation)
+Triggered event startconvo=tri_tyr_bath
+Triggered event add=tri,1
+Triggered event triggerquest=tri_tyr_bath
+Go Location: Highcamp
+Go Location: Outcrop
+Audio Clip is null
+Go Location: Highcamp
+Audio Clip is null
+Go Location: Outcrop
+Audio Clip is null
+Go Location: Hotspring
+Audio Clip is null
+Go Location: Backroom
+Releasing room Foyer (UnityEngine.GameObject)
+Triggered event add=tri,1
+Triggered event add=tyr,3
+Triggered event triggerquest=tyr_dungeon_start
+Complete Quest: TYR_Iron_Ingot_Needs
+Triggered event completequest=tyr_iron_ingot_needs
+Triggered event unlockroom=watchtower
+Releasing room RoomTRI (UnityEngine.GameObject)
+Removed Flag: Morning
+Advancing time: Day 19 ( Day)
+Go Location: Watchtower
+Triggered event add=tri, 1
+Triggered event add=tyr, 3
+Go Location: highcamp
+Triggered event moveall=highcamp
+Complete Quest: TYR_Dungeon_Start
+Triggered event completequest=tyr_dungeon_start
+Quest tyr_finish_first_dungeon already in progress. 
+Triggered event triggerquest=tyr_finish_first_dungeon
+Go Location: dungeondescend
+Triggered event go=dungeondescend
+Releasing room Crossroads (UnityEngine.GameObject)
+Audio Clip is null
+calling fade call transition
+Map Action: map_intro_tutorial, true
+HP: 50 + 5
+Go Location: MapCombat
+Audio Clip is null
+Triggered event startmap=map_intro_tutorial, true
+Go Location: MapCombat
+Triggered event showmap
+Go Location: MapCombat
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_02
+PLAY SFX: ooze_intro_sfx
+COMBAT ALLY: ()
+Enemy actual action: slime1_attack || 
+slime1_attack
+Enemy turn: 0 || 0 || 5
+Enemy actual action: slime1_attack || 
+slime1_attack
+Enemy turn: 0 || 0 || 5
+Enemy actual action: slime1_attack || 
+slime1_attack
+Enemy turn: 0 || 0 || 5
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+DRAW: 2 || 
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 4 || True
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 8 || True
+REMAINING: 3
+REMAINING: 3
+Enemy actual action: slime1_potency || 
+slime1_potency
+Enemy turn: 1 || 1 || 5
+Enemy actual action: slime1_potency || 
+slime1_potency
+Enemy turn: 1 || 1 || 5
+Enemy actual action: slime1_potency || 
+slime1_potency
+Enemy turn: 1 || 1 || 5
+REMAINING: 3
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+REMAINING: 2
+Is Game Over?: False
+REMAINING: 2
+REMAINING: 2
+REMAINING: 2
+Enemy actual action: slime1_wait || 
+slime1_wait
+Enemy turn: 2 || 2 || 5
+Combat Effect OnApply (Potency): (buff) || (slime1_potency) || 1 || True
+Enemy actual action: slime1_wait || 
+slime1_wait
+Enemy turn: 2 || 2 || 5
+Combat Effect OnApply (Potency): (buff) || (slime1_potency) || 1 || True
+REMAINING: 2
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+REMAINING: 1
+Combat Effect OnApply (Weakness): (debuff) || (play_hack) || 4 || True
+Is Game Over?: False
+REMAINING: 1
+REMAINING: 0
+PLAYER WON: False || 0
+PLAYING REWARDS
+[Sprite Found] goo_good || Stinky Ooze || icon_goo_good
+[Sprite Found] fungus_shockshroom || Shockshroom || icon_fungus_shockshroom
+[Sprite Found] fungus_oozemold || Oozemold || icon_fungus_oozemold
+Map Combat Finished: True
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): bat_01
+PLAY SFX: bat_intro_sfx
+COMBAT ALLY: ()
+Enemy actual action: bat_attack || 
+bat_attack
+Enemy turn: 0 || 0 || 5
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 4 || True
+PREDICT: False || False
+Material AdditiveUI doesn't have _Stencil property
+PREDICT: False || False
+Material AdditiveUI doesn't have _Stencil property
+REMAINING: 1
+REMAINING: 1
+Enemy actual action: bat1_block || 
+bat_attack, 
+bat1_block,
+bat1_impotent
+Enemy turn: 1 || 1 || 5
+REMAINING: 1
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 7 || True
+REMAINING: 0
+PLAYER WON: False || 0
+STEAM ACHIEVEMENT: defensive
+PLAYING REWARDS
+[Sprite Found] fur_good || Fine Pelt || icon_fur_good
+[Sprite Found] meat_poor || Tough Meat || icon_meat_poor
+Map Combat Finished: True
+Entering Node: RestSite || Tier: 2
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_rest
+Triggered event dungeonreward=rest, sta
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found]  ||  || heal
+Go Location: MapCombat
+REST HEALTH: 16
+Entering Node: MinorEnemy || Tier: 2
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): slugwort_12
+PLAY SFX: frog_intro_sfx
+COMBAT ALLY: ()
+Enemy actual action: slugwort2_poke || 
+slugwort2_poke
+Enemy turn: 0 || 0 || 2
+Enemy actual action: jelly1_attack || 
+jelly1_attack, 
+jelly1_blockheal
+Enemy turn: 0 || 0 || 4
+Enemy actual action: slugwort2_poke || 
+slugwort2_poke
+Enemy turn: 0 || 0 || 2
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 4 || True
+REMAINING: 2
+Combat Effect OnApply (Potency): () || (play_self_abuse) || 0 || False
+Combat Effect OnApply (Gain Mojo): () || (play_self_abuse) || 2 || True
+TANGLED: False
+Is Game Over?: False
+REMAINING: 2
+PREDICT: False || False
+Material AdditiveUI doesn't have _Stencil property
+PREDICT: False || False
+Material AdditiveUI doesn't have _Stencil property
+REMAINING: 2
+REMAINING: 2
+Enemy actual action: jelly1_attack || 
+jelly1_attack, 
+jelly1_blockheal
+Enemy turn: 1 || 1 || 4
+Enemy actual action: slugwort2_potency || 
+slugwort2_block, 
+slugwort2_potency
+Enemy turn: 1 || 1 || 2
+REMAINING: 2
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+DRAW: 2 || 
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 3 || True
+REMAINING: 2
+REMAINING: 2
+Enemy actual action: jelly1_acid || 
+jelly1_acid
+Enemy turn: 2 || 2 || 4
+Enemy actual action: slugwort2_poke || 
+slugwort2_poke
+Enemy turn: 2 || 0 || 2
+Combat Effect OnApply (Potency): (buff) || (slugwort2_potency) || 1 || True
+REMAINING: 2
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+REMAINING: 1
+Combat Effect OnApply (Weakness): (debuff) || (play_hack) || 4 || True
+Combat Effect OnApply (Potency): (buff) || (play_minor_transformation) || 4 || True
+Is Game Over?: False
+REMAINING: 1
+REMAINING: 0
+PLAYER WON: False || 0
+PLAYING REWARDS
+[Sprite Found] fur_poor || Matted Fur || icon_fur_poor
+[Sprite Found] booze_firewhiskey || Firewhiskey || icon_booze_firewhiskey
+[Sprite Found] potion_potency || Tonic of Potency || icon_potion_potency
+Map Combat Finished: True
+Entering Node: RestSite || Tier: 3
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_copper || Copper Ingot || icon_ingot_copper
+[Sprite Found] gem_emerald || Emerald || icon_gem_emerald
+Go Location: MapCombat
+Entering Node: Boss || Tier: 3
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): slugwort_boss_01
+PLAY SFX: frog_intro_boss_sfx
+COMBAT ALLY: ()
+Enemy actual action: slugwort4_attack || 
+slugwort4_attack
+Enemy turn: 0 || 0 || 4
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+Combat Effect OnApply (Weakness): (debuff) || (play_hack) || 4 || True
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 4 || True
+REMAINING: 1
+REMAINING: 1
+Enemy actual action: slugwort4_allypotency || 
+slugwort4_allyresistance, 
+slugwort4_allypotency
+Enemy turn: 1 || 1 || 4
+REMAINING: 1
+TUTORIAL (1): True || True
+TUTORIAL (2): False
+Combat Effect OnApply (Jab Bonus): () || (play_jab) || 2 || True
+REMAINING: 0
+PLAYER WON: False || 0
+STEAM ACHIEVEMENT: defensive
+Combat Effect OnApply (Potency): (buff) || (play_perfect_focus) || 4 || True
+PLAYING REWARDS
+[Sprite Found]  ||  || goodgold
+CASH reward: 25
+Map Combat Finished: True
+Removed Flag: Day
+Advancing time: Day 19 ( Evening)
+CLOSE MAP: False
+ON EXIT DUNGEON
+STEAM ACHIEVEMENT: dungeon_master
+TRIGGER ACHIEVEMENT: dungeon_master
+HP: 50 + 5
+Triggered event closemap
+Invalid animation AchievementEnter
+Invalid animation AchievementExit
+Go Location: mushroomgrove
+Triggered event go=mushroomgrove
+Triggered event add=tri, 1
+Triggered event add=lin, 3
+Releasing room Highcamp (UnityEngine.GameObject)
+Audio Clip is null
+Triggered event namecharacter=lin
+Start Spanking: lin_mushroom_grove.memory
+Triggered event startspanking=lin_mushroom_grove
+Triggered event hadsex=lin_intro_sex_yes
+Force Save called
+GET AUDIO: LINDA_Cool_03
+GET AUDIO: LINDA_Cool_01
+GET AUDIO: LINDA_Low_10
+Triggered event add=tri,2
+Stop Spanking: False
+Triggered event stopspanking
+Triggered event remove=lin
+Complete Quest: TYR_Finish_First_Dungeon
+Triggered event completequest=tyr_finish_first_dungeon
+Quest tyr_mushroom_dungeon_start already in progress. 
+Triggered event triggerquest=tyr_mushroom_dungeon_start
+Triggered event moveall=highcamp
+Releasing room Outcrop (UnityEngine.GameObject)
+Go Location: highcamp
+Go Location: Outcrop
+Releasing room Hotspring (UnityEngine.GameObject)
+Triggered event add=tri,1
+Triggered event add=tyr,3
+Complete Quest: TYR_Mushroom_Dungeon_Start
+Triggered event completequest=tyr_mushroom_dungeon_start
+Quest tyr_mushroom_dungeon_meet already in progress. 
+Triggered event triggerquest=tyr_mushroom_dungeon_meet
+Go Location: Highcamp
+Audio Clip is null
+Go Location: dungeondescend
+Audio Clip is null
+Triggered event go=dungeondescend
+Triggered event removeally
+Triggered event setally=tyr
+Complete Quest: TYR_Mushroom_Dungeon_Meet
+Triggered event completequest=tyr_mushroom_dungeon_meet
+Quest tyr_mushroom_dungeon_explore already in progress. 
+Triggered event triggerquest=tyr_mushroom_dungeon_explore
+Map Action: mine_tyr_1, true
+HP: 50 + 5
+Go Location: MapCombat
+Audio Clip is null
+Triggered event startmap=mine_tyr_1, true
+Go Location: MapCombat
+Triggered event showmap
+Go Location: MapCombat
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_13
+PLAY SFX: ooze_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_goo_poor
+PLAYING REWARDS
+[Sprite Found] goo_good || Stinky Ooze || icon_goo_good
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): slugwort_06
+PLAY SFX: frog_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_bad, get_bugpart
+PLAYING REWARDS
+[Sprite Found] ingot_copper || Copper Ingot || icon_ingot_copper
+[Sprite Found] bugpart_poor || Foul Ichor || icon_bugpart_poor
+Entering Node: Mystery || Tier: 2
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_mineore
+Triggered event dungeonreward=mineore, sta
+MYSTERY NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_copper || Copper Ingot || icon_ingot_copper
+[Sprite Found] ingot_silver || Silver Ingot || icon_ingot_silver
+Go Location: MapCombat
+Entering Node: RestSite || Tier: 2
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] bugpart_good || Hard Chitin || icon_bugpart_good
+[Sprite Found] goo_poor || Funky Jelly || icon_goo_poor
+Go Location: MapCombat
+Entering Node: Mystery || Tier: 3
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+MYSTERY NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_silver || Silver Ingot || icon_ingot_silver
+[Sprite Found] gem_ruby || Ruby || icon_gem_ruby
+Go Location: MapCombat
+Entering Node: Treasure || Tier: 3
+Invalid sound effect found : dungeon_select_node
+TREASURE NODE: STARTED
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_UnlockedChest (BrightBit.Conversation)
+Triggered event startconvo=eventscript_unlockedchest
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_LockTrap (BrightBit.Conversation)
+Triggered event startconvo=eventscript_locktrap
+Triggered event achievement=inquisitive,1
+Triggered event givereward=effect_scared
+TREASURE NODE: FINISHED
+Go Location: MapCombat
+Go Location: MapCombat
+PLAYING REWARDS
+TRIGGER CUSTOM ACTION: (Lose all COURAGE)
+ADD CARD IN DUNGEON: FEAR
+ADD CARD IN DUNGEON: FEAR
+Entering Node: RestSite || Tier: 3
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_openchest
+Triggered event dungeonreward=openchest, ste
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found]  ||  || goodgold
+Go Location: MapCombat
+CASH reward: 14
+Entering Node: Boss || Tier: 3
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_boss_02
+PLAY SFX: ooze_intro_sfx
+Map Combat Finished: True
+Removed Flag: Evening
+Advancing time: Day 19 ( Night)
+STEAM ACHIEVEMENT: careful
+TRIGGER ACHIEVEMENT: careful
+Go Location: mushroomgrove
+Audio Clip is null
+Triggered event go=mushroomgrove, false
+CLOSE MAP: False
+ON EXIT DUNGEON
+STEAM ACHIEVEMENT: dungeon_master
+HP: 50 + 5
+Triggered event closemap
+AUTO SKIP REWARD: get_good, get_good
+Invalid animation AchievementEnter
+PLAYING REWARDS
+[Sprite Found] flower_gardenia || Gardenia || icon_flower_gardenia
+[Sprite Found] herb_sweetclover || Sweetclover || icon_herb_sweetclover
+[Sprite Found] fungus_shockshroom || Shockshroom || icon_fungus_shockshroom
+[Sprite Found] herb_stoneroot || Stoneroot || icon_herb_stoneroot
+Invalid animation AchievementExit
+Go Location: mushroomgrove
+Triggered event go=mushroomgrove, false
+Triggered event add=tri,1
+Triggered event add=tyr,3
+Triggered event add=tyr, 4
+Start Spanking: tyr_mushroom_grove.memory
+Triggered event startspanking=tyr_mushroom_grove
+Triggered event hadsex=tyr_mushroom_sex_yes
+Force Save called
+calling fade call transition
+Stop Spanking: False
+Triggered event stopspanking
+Triggered event add=tri,1
+Triggered event add=tyr,3
+calling fade call transition
+Triggered event add=tyr, 3
+Character Spine cd3a8035451f5ff438724cc2bc534671 destroyed
+GAIN CARD: hold || False
+Triggered event gaincard=hold
+Invalid quest daw_spores
+Triggered event triggerquest=daw_spores
+Complete Quest: TYR_Mushroom_Dungeon_Explore
+Triggered event completequest=tyr_mushroom_dungeon_explore
+Go Location: highcamp
+Triggered event go=highcamp
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Releasing room Hotspring_convo (UnityEngine.GameObject)
+APPLY SEX HEALTH (LIN_INTRO_SEX_YES): 5
+APPLY SEX HEALTH (TYR_mushroom_sex_yes): 5
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Highcamp
+Go Location: dungeondescend
+Audio Clip is null
+Triggered event go=dungeondescend
+Triggered event removeally
+Map Action: mine_orb_1, true
+HP: 50 + 15
+Go Location: MapCombat
+Audio Clip is null
+Triggered event startmap=mine_orb_1, true
+Go Location: MapCombat
+Triggered event showmap
+Go Location: MapCombat
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): fungoid_3
+Map Combat Finished: True
+AUTO SKIP REWARD: get_fungus_oozemold
+PLAYING REWARDS
+[Sprite Found] fungus_oozemold || Oozemold || icon_fungus_oozemold
+Entering Node: Mystery || Tier: 1
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+MYSTERY NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_iron || Iron Ingot || icon_ingot_iron
+[Sprite Found] gem_onyx || Onyx || icon_gem_onyx
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 2
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): slugwort_11
+PLAY SFX: frog_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_poor, get_bad, get_good
+PLAYING REWARDS
+[Sprite Found]  ||  || goodgold
+[Sprite Found] potion_potency || Tonic of Potency || icon_potion_potency
+[Sprite Found] fish_poor || Cave Bass || icon_fish_poor
+CASH reward: 86
+Entering Node: Special || Tier: 2
+Invalid sound effect found : dungeon_select_node
+SPECIAL NODE: STARTED
+SPECIAL NODE (1): FINISHED
+Triggered event showmap=false
+Trying to load minigame: sudoku_portcullis
+Triggered event startmg=sudoku_portcullis
+Successfully loaded minigame: sudoku_portcullis False
+Go Location: Minigames
+Audio Clip is null
+SPECIAL NODE (2): FINISHED
+PLAY SUCCESS
+Go Location: MapCombat
+Audio Clip is null
+Triggered event showmap=true
+Destroying minigame: sudoku_portcullis(Clone)
+Go Location: MapCombat
+Go Location: MapCombat
+Entering Node: Treasure || Tier: 3
+Invalid sound effect found : dungeon_select_node
+TREASURE NODE: STARTED
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_LockedChest (BrightBit.Conversation)
+Triggered event startconvo=eventscript_lockedchest
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_UnlockedChest (BrightBit.Conversation)
+Triggered event startconvo=eventscript_unlockedchest
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_ChestTreasure (BrightBit.Conversation)
+Triggered event startconvo=eventscript_chesttreasure
+Triggered event achievement=inquisitive,1
+Triggered event givereward=get_flower
+TREASURE NODE: FINISHED
+Go Location: MapCombat
+Go Location: MapCombat
+PLAYING REWARDS
+[Sprite Found] flower_daffodil || Daffodil || icon_flower_daffodil
+Entering Node: EliteEnemy || Tier: 3
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_elite_01
+PLAY SFX: ooze_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_average, get_good
+PLAYING REWARDS
+[Sprite Found] potion_mojo || Mojo Potion || icon_potion_mojo
+[Sprite Found] gem_diamond || Diamond || icon_gem_diamond
+[Sprite Found] gem_pearl || Pearl || icon_gem_pearl
+Entering Node: RestSite || Tier: 3
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_mineore
+Triggered event dungeonreward=mineore, sta
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_gold || Gold Ingot || icon_ingot_gold
+[Sprite Found] ingot_silver || Silver Ingot || icon_ingot_silver
+Go Location: MapCombat
+Entering Node: Boss || Tier: 3
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_boss_02
+PLAY SFX: ooze_intro_sfx
+Map Combat Finished: True
+Removed Flag: Morning
+Advancing time: Day 20 ( Day)
+STEAM ACHIEVEMENT: careful
+Triggered event showmap=false
+Trying to load minigame: ClickToPlace_Orb_Chest
+Triggered event startmg=clicktoplace_orb_chest
+AUTO SKIP REWARD: get_good, get_good
+Successfully loaded minigame: ClickToPlace_Orb_Chest False
+Go Location: Minigames
+Audio Clip is null
+PLAYING REWARDS
+[Sprite Found] potion_block || Block Serum || icon_potion_block
+[Sprite Found] bugpart_poor || Foul Ichor || icon_bugpart_poor
+CLOSE POSITION (orb_it032): (1845.58, 666.54, -0.58) || (937.50, 232.90, 0.00)
+CLOSE POSITION (orb_it038): (517.78, 104.64, -1.00) || (517.50, 92.90, 0.00)
+CLOSE POSITION (orb_it032): (932.65, 233.43, -1.00) || (937.50, 232.90, 0.00)
+CLOSE POSITION (orb_it037): (435.72, 419.21, -1.00) || (378.00, 92.90, 0.00)
+CLOSE POSITION (orb_it005): (934.93, 649.44, -1.00) || (937.50, 652.90, 0.00)
+CLOSE POSITION (orb_it037): (1331.56, 59.05, -1.00) || (378.00, 92.90, 0.00)
+CLOSE POSITION (orb_it041): (932.65, 93.25, -1.00) || (937.50, 92.90, 0.00)
+CLOSE POSITION (orb_it040): (794.74, 89.83, -1.00) || (797.50, 92.90, 0.00)
+CLOSE POSITION (orb_it010): (1573.18, 505.83, -1.00) || (378.00, 512.90, 0.00)
+CLOSE POSITION (orb_it007): (1219.86, 647.16, -1.00) || (1217.50, 652.90, 0.00)
+CLOSE POSITION (orb_it044): (1364.61, 88.69, -1.00) || (1357.50, 92.90, 0.00)
+CLOSE POSITION (orb_it042): (1081.95, 97.80, -1.00) || (1077.50, 92.90, 0.00)
+CLOSE POSITION (orb_it014): (933.79, 511.53, -1.00) || (937.50, 512.90, 0.00)
+CLOSE POSITION (orb_it045): (1493.40, 97.80, -1.00) || (1497.50, 92.90, 0.00)
+CLOSE POSITION (orb_it022): (799.30, 374.76, -1.00) || (797.50, 372.90, 0.00)
+CLOSE POSITION (orb_it037): (374.17, 96.67, -1.00) || (378.00, 92.90, 0.00)
+CLOSE POSITION (orb_it021): (668.23, 371.34, -1.00) || (657.50, 372.90, 0.00)
+CLOSE POSITION (orb_it010): (370.75, 512.67, -1.00) || (378.00, 512.90, 0.00)
+CLOSE POSITION (orb_it043): (1206.18, 87.55, -1.00) || (1217.50, 92.90, 0.00)
+CLOSE POSITION (orb_it017): (1366.89, 542.30, -1.00) || (1357.50, 512.90, 0.00)
+CLOSE POSITION (orb_it029): (1164.01, 235.71, -1.00) || (517.50, 232.90, 0.00)
+CLOSE POSITION (orb_it029): (1173.13, 239.13, -1.00) || (517.50, 232.90, 0.00)
+CLOSE POSITION (orb_it029): (514.36, 239.13, -1.00) || (517.50, 232.90, 0.00)
+CLOSE POSITION (orb_it012): (660.25, 516.09, -1.00) || (657.50, 512.90, 0.00)
+CLOSE POSITION (orb_it030): (657.97, 218.62, -1.00) || (657.50, 232.90, 0.00)
+CLOSE POSITION (orb_it001): (1864.96, -44.66, -1.00) || (378.00, 652.90, 0.00)
+CLOSE POSITION (orb_it001): (368.47, 643.74, -1.00) || (378.00, 652.90, 0.00)
+CLOSE POSITION (orb_it018): (1501.38, 517.23, -1.00) || (1497.50, 512.90, 0.00)
+CLOSE POSITION (orb_it008): (1370.31, 650.58, -1.00) || (1357.50, 652.90, 0.00)
+CLOSE POSITION (orb_it009): (1502.52, 660.84, -1.00) || (1497.50, 652.90, 0.00)
+CLOSE POSITION (orb_it013): (794.74, 497.85, -1.00) || (797.50, 512.90, 0.00)
+CLOSE POSITION (orb_it033): (1076.25, 232.29, -1.00) || (1077.50, 232.90, 0.00)
+CLOSE POSITION (orb_it016): (1219.86, 506.97, -1.00) || (1217.50, 512.90, 0.00)
+CLOSE POSITION (orb_it025): (1228.98, 365.64, -1.00) || (1217.50, 372.90, 0.00)
+CLOSE POSITION (orb_it036): (1487.70, 228.88, -1.00) || (1497.50, 232.90, 0.00)
+CLOSE POSITION (orb_it004): (832.35, 647.16, -1.00) || (797.50, 652.90, 0.00)
+CLOSE POSITION (orb_it024): (1078.53, 366.78, -1.00) || (1077.50, 372.90, 0.00)
+CLOSE POSITION (orb_it034): (1226.70, 235.71, -1.00) || (1217.50, 232.90, 0.00)
+CLOSE POSITION (orb_it003): (1234.68, 346.27, -1.00) || (657.50, 652.90, 0.00)
+CLOSE POSITION (orb_it003): (656.83, 656.28, -1.00) || (657.50, 652.90, 0.00)
+CLOSE POSITION (orb_it015): (1070.56, 496.71, -1.00) || (1077.50, 512.90, 0.00)
+CLOSE POSITION (orb_it035): (1713.37, 500.13, -1.00) || (1357.50, 232.90, 0.00)
+CLOSE POSITION (orb_it035): (1368.03, 256.23, -1.00) || (1357.50, 232.90, 0.00)
+CLOSE POSITION (orb_it031): (805.00, 227.74, -1.00) || (797.50, 232.90, 0.00)
+CLOSE POSITION (orb_it011): (371.89, 365.64, -1.00) || (517.50, 512.90, 0.00)
+CLOSE POSITION (orb_it011): (515.50, 526.35, -1.00) || (517.50, 512.90, 0.00)
+CLOSE POSITION (orb_it028): (1462.63, 256.23, -1.00) || (378.00, 232.90, 0.00)
+CLOSE POSITION (orb_it028): (369.61, 240.27, -1.00) || (378.00, 232.90, 0.00)
+CLOSE POSITION (orb_it023): (956.58, 351.97, -1.00) || (937.50, 372.90, 0.00)
+CLOSE POSITION (orb_it019): (382.15, 365.64, -1.00) || (378.00, 372.90, 0.00)
+CLOSE POSITION (orb_it020): (498.40, 375.90, -1.00) || (517.50, 372.90, 0.00)
+CLOSE POSITION (orb_it002): (524.62, 639.18, -1.00) || (517.50, 652.90, 0.00)
+CLOSE POSITION (orb_it039): (670.51, 100.08, -1.00) || (657.50, 92.90, 0.00)
+CLOSE POSITION (orb_it026): (1345.23, 351.97, -1.00) || (1357.50, 372.90, 0.00)
+CLOSE POSITION (orb_it006): (1080.81, 635.76, -1.00) || (1077.50, 652.90, 0.00)
+CLOSE POSITION (orb_it027): (1487.70, 374.76, -1.00) || (1497.50, 372.90, 0.00)
+CLICK TO PLACE: PLAY SUCCESS
+Go Location: MapCombat
+Audio Clip is null
+Go Location: dungeon
+Triggered event go=dungeon
+Triggered event add=tri,1
+Adding invalid item (orb)
+Adding invalid item (orb)
+Triggered event gainitem=orb
+Destroying minigame: ClickToPlace_Orb_Chest(Clone)
+Releasing room Backroom (UnityEngine.GameObject)
+Audio Clip is null
+CLOSE MAP: True
+ON EXIT DUNGEON
+STEAM ACHIEVEMENT: dungeon_master
+HP: 50 + 15
+Triggered event closemap=true
+Complete Quest: MOR_Orb_1
+Triggered event completequest=mor_orb_1
+Quest mor_orb_2 already in progress. 
+Triggered event triggerquest=mor_orb_2
+Go Location: highcamp
+Triggered event moveall=highcamp
+Go Location: highcamp
+Triggered event go=highcamp
+Triggered event givegold=100
+Go Location: Library
+Releasing room Watchtower (UnityEngine.GameObject)
+Triggered event add=tri, 1
+Triggered event add=mor, 3
+Triggered event add=mor, 4
+Triggered event add=mor, 3
+Invalid quest mor_research_orb
+Triggered event triggerquest=mor_research_orb
+Complete Quest: MOR_Orb_2
+Triggered event completequest=mor_orb_2
+Quest mor_orb_3 already in progress. 
+Triggered event triggerquest=mor_orb_3
+Triggered event remove=mor
+Go Location: Smithy
+Releasing room DungeonDescend (UnityEngine.GameObject)
+Triggered event add=tri,1
+Triggered event add=pog,3
+Removed Flag: pog_ore_1_requirement
+Triggered event consumeinventoryrequirement=pog_amulet_1
+Trying to load minigame: pog_01_1
+Triggered event startmg=pog_01_1
+Successfully loaded minigame: pog_01_1 False
+Queuing conversation POG_Amulet_Coloring_Forge (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+SETUP BRUSH: False || False
+ON NEXT MINIGAME (pog_01_1(Clone)): False
+Destroying minigame: pog_01_1(Clone)
+Trying to load minigame: pog_01_2
+Successfully loaded minigame: pog_01_2 False
+SETUP BRUSH: False || False
+COLOR MG: FADE IN COMPLETE
+Go Location: Smithy
+Triggered event add=tri,1
+Triggered event add=pog,3
+Triggered event showfrontend
+Removed Flag: Day
+Advancing time: Day 20 ( Evening)
+Triggered event advancetime
+COLOR MG: FADE IN COMPLETE
+Destroying minigame: pog_01_2(Clone)
+Triggered event gainweapon=axe
+GAIN CARD: savage_attack || False
+Triggered event gaincard=savage_attack
+GAIN CARD: reckless_attack || False
+Triggered event gaincard=reckless_attack
+GAIN CARD: enraged_block || False
+Triggered event gaincard=enraged_block
+Complete Quest: POG_Amulet_1
+Triggered event completequest=pog_amulet_1
+Go Location: Outcrop
+Triggered event add=tri,1
+Triggered event add=tyr,3
+Go Location: Library
+Triggered event add=tri,1
+Triggered event add=daw,3
+Triggered event unlockroom=alchemist
+Releasing room MushroomGrove (UnityEngine.GameObject)
+Complete Quest: DAW_Spores_1
+Triggered event completequest=daw_spores_1
+Removed Flag: Evening
+Advancing time: Day 20 ( Night)
+Triggered event advancetime
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Highcamp
+Go Location: Crossroads
+Releasing room Outcrop (UnityEngine.GameObject)
+Go Location: Alchemist
+Audio Clip is null
+Triggered event add=tri,1
+Complete Quest: IZE_Intro_1
+Triggered event completequest=ize_intro_1
+Triggered event unlockroom=laboratory
+Triggered event unlockroom=garden
+Releasing room Highcamp (UnityEngine.GameObject)
+Releasing room RoomTRI (UnityEngine.GameObject)
+Go Location: laboratory
+Triggered event go=laboratory
+Character Spine Default(Clone) destroyed
+Starting preset fight: (fight_tentacle2)
+Triggered event startfight=fight_tentacle2
+Triggered event add=tri,1
+Triggered event add=ize,3
+Triggered event namecharacter=ize
+Complete Quest: IZE_Intro_2
+Triggered event completequest=ize_intro_2
+Triggered event triggerquest=ros_fungus_container_1
+Triggered event triggerquest=ros_fungus_container_2_hay
+Removed Flag: Morning
+Advancing time: Day 21 ( Day)
+Triggered event advancetime
+Go Location: Smithy
+Triggered event add=tri,1
+Triggered event add=pog,3
+Trying to load minigame: BlockTris_POG_Amulet_1
+Triggered event startmg=blocktris_pog_amulet_1
+Successfully loaded minigame: BlockTris_POG_Amulet_1 False
+Queuing conversation BlockTris_Fish (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Destroying minigame: BlockTris_POG_Amulet_1(Clone)
+Trying to load minigame: BlockTris_POG_Amulet_2
+Triggered event startmg=blocktris_pog_amulet_2
+Successfully loaded minigame: BlockTris_POG_Amulet_2 False
+Destroying minigame: BlockTris_POG_Amulet_2(Clone)
+Trying to load minigame: BlockTris_POG_Amulet_3
+Triggered event startmg=blocktris_pog_amulet_3
+Successfully loaded minigame: BlockTris_POG_Amulet_3 False
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Destroying minigame: BlockTris_POG_Amulet_3(Clone)
+Trying to load minigame: BlockTris_POG_Amulet_4
+Triggered event startmg=blocktris_pog_amulet_4
+Successfully loaded minigame: BlockTris_POG_Amulet_4 False
+Audio Clip is null
+Destroying minigame: BlockTris_POG_Amulet_4(Clone)
+Trying to load minigame: BlockTris_POG_Amulet_5
+Triggered event startmg=blocktris_pog_amulet_5
+Successfully loaded minigame: BlockTris_POG_Amulet_5 False
+Audio Clip is null
+Audio Clip is null
+Audio Clip is null
+Go Location: Smithy
+Triggered event showfrontend
+Destroying minigame: BlockTris_POG_Amulet_5(Clone)
+Triggered event add=tri,1
+Triggered event add=pog,3
+Triggered event forceadd=pog, 5
+Triggered event forceadd=pog, 2
+Triggered event forceremove=pog
+Triggered event add=tri,1
+Triggered event forceadd=pog,3
+Removed Flag: pog_ore_2_requirement
+Triggered event consumeinventoryrequirement=pog_amulet_2
+Triggered event add=pog, 2
+Triggered event add=pog, 3
+Complete Quest: POG_Amulet_2
+Triggered event completequest=pog_amulet_2
+Go Location: Watchtower
+Releasing room dungeon (UnityEngine.GameObject)
+Go Location: Highcamp
+Releasing room Library (UnityEngine.GameObject)
+Character Spine MORProxy destroyed
+Go Location: dungeondescend
+Triggered event go=dungeondescend
+Triggered event removeally
+Releasing room Smithy (UnityEngine.GameObject)
+Audio Clip is null
+Character Spine PogPoxy destroyed
+Map Action: mine_pog_trials_1, true
+HP: 50 + 15
+Go Location: MapCombat
+Audio Clip is null
+Triggered event startmap=mine_pog_trials_1, true
+Go Location: MapCombat
+Triggered event showmap
+Go Location: MapCombat
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 1
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): ooze_03
+PLAY SFX: ooze_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_poor, get_good
+PLAYING REWARDS
+[Sprite Found] fur_poor || Matted Fur || icon_fur_poor
+[Sprite Found] fungus_shockshroom || Shockshroom || icon_fungus_shockshroom
+[Sprite Found] fungus_dreamcap || Dreamcap || icon_fungus_dreamcap
+Entering Node: Mystery || Tier: 1
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+MYSTERY NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] ingot_copper || Copper Ingot || icon_ingot_copper
+[Sprite Found] gem_sapphire || Sapphire || icon_gem_sapphire
+Go Location: MapCombat
+Entering Node: MinorEnemy || Tier: 2
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): scorpion_02
+PLAY SFX: scorpion_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_poor, get_bugpart
+PLAYING REWARDS
+[Sprite Found] herb_sweetclover || Sweetclover || icon_herb_sweetclover
+[Sprite Found] bugpart_poor || Foul Ichor || icon_bugpart_poor
+Entering Node: RestSite || Tier: 2
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_fish
+Triggered event dungeonreward=fish, cra
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found] fish_poor || Cave Bass || icon_fish_poor
+Go Location: MapCombat
+Entering Node: EliteEnemy || Tier: 2
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): slugwort_elite_02
+PLAY SFX: frog_intro_sfx
+Map Combat Finished: True
+AUTO SKIP REWARD: get_poor, get_poor, get_fur
+PLAYING REWARDS
+[Sprite Found] gem_emerald || Emerald || icon_gem_emerald
+[Sprite Found] goo_poor || Funky Jelly || icon_goo_poor
+[Sprite Found] fur_poor || Matted Fur || icon_fur_poor
+Entering Node: Treasure || Tier: 3
+Invalid sound effect found : dungeon_select_node
+TREASURE NODE: STARTED
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_UnlockedChest (BrightBit.Conversation)
+Triggered event startconvo=eventscript_unlockedchest
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_ChestTreasure (BrightBit.Conversation)
+Triggered event startconvo=eventscript_chesttreasure
+Triggered event achievement=inquisitive,1
+Triggered event givereward=get_mineral
+TREASURE NODE: FINISHED
+Go Location: MapCombat
+Go Location: MapCombat
+PLAYING REWARDS
+[Sprite Found] ingot_silver || Silver Ingot || icon_ingot_silver
+[Sprite Found] gem_emerald || Emerald || icon_gem_emerald
+Entering Node: Treasure || Tier: 3
+Invalid sound effect found : dungeon_select_node
+TREASURE NODE: STARTED
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_UnlockedChest (BrightBit.Conversation)
+Triggered event startconvo=eventscript_unlockedchest
+Triggered event achievement=inquisitive,1
+Queuing conversation EventScript_ChestTreasure (BrightBit.Conversation)
+Triggered event startconvo=eventscript_chesttreasure
+Triggered event achievement=inquisitive,1
+Triggered event givereward=get_booze
+TREASURE NODE: FINISHED
+Go Location: MapCombat
+Go Location: MapCombat
+PLAYING REWARDS
+[Sprite Found] booze_icewine || Icewine || icon_booze_icewine
+[Sprite Found] booze_honeymead || Honeymead || icon_booze_honeymead
+Entering Node: RestSite || Tier: 3
+Invalid sound effect found : dungeon_select_node
+Triggered event achievement=explorer,1
+DUNGEON REWARD: EVENT_scavenge
+Triggered event dungeonreward=scavenge, ste
+CAMP NODE: FINISHED
+PLAYING REWARDS
+Go Location: MapCombat
+[Sprite Found]  ||  || goodgold
+Go Location: MapCombat
+CASH reward: 18
+Entering Node: Boss || Tier: 3
+Invalid sound effect found : dungeon_select_node
+POPUP RANDOM COMBAT (3): driller_boss_01
+PLAY SFX: driller_intro_sfx
+Map Combat Finished: True
+Removed Flag: Day
+Advancing time: Day 21 ( Evening)
+STEAM ACHIEVEMENT: careful
+CLOSE MAP: False
+ON EXIT DUNGEON
+STEAM ACHIEVEMENT: dungeon_master
+HP: 50 + 15
+Triggered event closemap
+Go Location: dungeon
+Triggered event go=dungeon
+Triggered event add=tri,1
+Triggered event showfrontend
+AUTO SKIP REWARD: get_good, get_good
+Releasing room Alchemist (UnityEngine.GameObject)
+Audio Clip is null
+Character Spine IzeProxy destroyed
+PLAYING REWARDS
+[Sprite Found] booze_icewine || Icewine || icon_booze_icewine
+[Sprite Found] booze_firewhiskey || Firewhiskey || icon_booze_firewhiskey
+[Sprite Found] goo_good || Stinky Ooze || icon_goo_good
+Trying to load minigame: Deconstruct_POG_Mecha_1
+Triggered event startmg=deconstruct_pog_mecha_1
+Successfully loaded minigame: Deconstruct_POG_Mecha_1 False
+Go Location: Minigames
+Audio Clip is null
+Go Location: dungeon
+Audio Clip is null
+Triggered event add=tri,1
+Destroying minigame: Deconstruct_POG_Mecha_1(Clone)
+Trying to load minigame: ClickToRotate_POG_Amulet
+Triggered event startmg=clicktorotate_pog_amulet
+Successfully loaded minigame: ClickToRotate_POG_Amulet False
+Queuing conversation ClickToRotate_POG_Amulet (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+Go Location: dungeon
+Audio Clip is null
+Triggered event add=tri,1
+Destroying minigame: ClickToRotate_POG_Amulet(Clone)
+Complete Quest: POG_Amulet_3
+Triggered event completequest=pog_amulet_3
+Go Location: highcamp
+Triggered event go=highcamp
+Removed Flag: Evening
+Advancing time: Day 21 ( Night)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Releasing room Crossroads (UnityEngine.GameObject)
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Smithy
+Releasing room Laboratory (UnityEngine.GameObject)
+Character Spine IzeProxy destroyed
+Triggered event add=tri,1
+Triggered event add=pog,3
+Triggered event moveall=roompog
+Releasing room Garden (UnityEngine.GameObject)
+Go Location: roompog
+Complete Quest: POG_Amulet_4
+Triggered event completequest=pog_amulet_4
+Removed Flag: Morning
+Advancing time: Day 22 ( Day)
+Triggered event advancetime
+Go Location: smithy
+Triggered event go=smithy
+Go Location: Library
+Releasing room Watchtower (UnityEngine.GameObject)
+Triggered event add=tri, 3
+Triggered event add=mor, 1
+Complete Quest: MOR_Amulet_5
+Triggered event completequest=mor_amulet_5
+Triggered event add=tri, 1
+Triggered event add=mor, 3
+Triggered event add=tri,1
+Queuing conversation MOR_Orb_3 (BrightBit.Conversation)
+Triggered event startconvo=mor_orb_3
+Triggered event add=tri,2
+Trying to load minigame: book_order
+Triggered event startmg=book_order
+Successfully loaded minigame: book_order False
+Go Location: Minigames
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+RELEASE EMPTY INDEX: 11
+MOVE: book9 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+RELEASE EMPTY INDEX: 4
+MOVE: book4 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 10
+MOVE: book3 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book11 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 8
+MOVE: book6 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 7
+MOVE: book12 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 6
+MOVE: book5 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 5
+MOVE: book1 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 4
+MOVE: book4 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+RELEASE EMPTY INDEX: 4
+MOVE: book9 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book6 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 8
+MOVE: book12 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 7
+MOVE: book5 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 6
+MOVE: book1 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 5
+MOVE: book4 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 4
+MOVE: book9 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 3
+MOVE: book2 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 2
+MOVE: book7 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book7 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book2 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+RELEASE EMPTY INDEX: 4
+MOVE: book11 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book8 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book7 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book2 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book11 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+RELEASE EMPTY INDEX: 4
+MOVE: book10 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book7 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book2 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book11 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book10 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book9 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+RELEASE EMPTY INDEX: 5
+MOVE: book8 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book4 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book1 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book5 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+RELEASE EMPTY INDEX: 8
+MOVE: book8 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book4 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book1 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book5 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+RELEASE EMPTY INDEX: 7
+MOVE: book9 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book4 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book1 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book5 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+RELEASE EMPTY INDEX: 6
+MOVE: book10 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book4 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book1 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book5 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+RELEASE EMPTY INDEX: 5
+MOVE: book11 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book2 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book4 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book1 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book5 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book11 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book10 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book9 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book8 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book12 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book7 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 8
+MOVE: book12 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+RELEASE EMPTY INDEX: 8
+MOVE: book7 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book12 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book6 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book11 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book10 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book9 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book8 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book7 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book6 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book5 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book1 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book11 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book10 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book9 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book8 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book7 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book6 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book5 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book4 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book10 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book9 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book8 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book7 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book6 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book5 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book4 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book11 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book11 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book12 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 10
+MOVE: book11 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book12 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book3 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book1 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book10 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book9 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book8 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book7 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book6 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book5 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book4 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book3 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 10
+MOVE: book12 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book12 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+RELEASE EMPTY INDEX: 9
+MOVE: book2 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 10
+MOVE: book12 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book2 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 8
+MOVE: book3 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 7
+MOVE: book4 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 6
+MOVE: book5 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 5
+MOVE: book6 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 4
+MOVE: book7 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 3
+MOVE: book8 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 2
+MOVE: book9 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 1
+MOVE: book10 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 0
+MOVE: book1 || 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book1 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+RELEASE EMPTY INDEX: 1
+MOVE: book11 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 10
+MOVE: book2 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 9
+MOVE: book3 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 8
+MOVE: book4 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 7
+MOVE: book5 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 6
+MOVE: book6 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 5
+MOVE: book7 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 4
+MOVE: book8 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 3
+MOVE: book9 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 2
+MOVE: book10 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 1
+MOVE: book11 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 0
+MOVE: book1 || 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book1 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+RELEASE EMPTY INDEX: 1
+MOVE: book12 || 0
+Audio Clip is null
+Audio Clip is null
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 0
+DRAG CLOSEST: 1
+MOVE: book12 || 0
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 1
+DRAG CLOSEST: 2
+MOVE: book11 || 0
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 2
+DRAG CLOSEST: 3
+MOVE: book10 || 0
+DRAG CLOSEST: 3
+DRAG CLOSEST: 3
+DRAG CLOSEST: 4
+MOVE: book9 || 0
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 4
+DRAG CLOSEST: 5
+MOVE: book8 || 0
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 5
+DRAG CLOSEST: 6
+MOVE: book7 || 0
+DRAG CLOSEST: 6
+DRAG CLOSEST: 6
+DRAG CLOSEST: 7
+MOVE: book6 || 0
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 7
+DRAG CLOSEST: 8
+MOVE: book5 || 0
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 8
+DRAG CLOSEST: 9
+MOVE: book4 || 0
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 9
+DRAG CLOSEST: 10
+MOVE: book3 || 0
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 10
+DRAG CLOSEST: 11
+MOVE: book2 || 0
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+DRAG CLOSEST: 11
+RELEASE EMPTY INDEX: 11
+MOVE: book1 || 0
+Audio Clip is null
+Go Location: Library
+Triggered event add=tri,2
+Destroying minigame: book_order(Clone)
+Trying to load minigame: runesearch_orb
+Triggered event startmg=runesearch_orb
+Successfully loaded minigame: runesearch_orb False
+Go Location: Minigames
+Audio Clip is null
+Selected Word: CU
+Selected Word: CUNT
+Selected Word: COCK
+Selected Word: PUSSY
+Selected Word: TIY1
+Selected Word: TITBW
+Selected Word: TI
+Selected Word: ASS
+Selected Word: SLUT
+Selected Word: SHIT
+Selected Word: FU2R
+Selected Word: FU2R
+Selected Word: FUCK
+Selected Word: TITB
+Selected Word: TITS
+Selected Word: YJ
+Go Location: Library
+Triggered event add=tri,2
+Removed Flag: Day
+Advancing time: Day 22 ( Evening)
+Triggered event advancetime
+Destroying minigame: runesearch_orb(Clone)
+GAIN CARD: pray || False
+Triggered event gaincard=pray
+Complete Quest: MOR_Orb_3
+Triggered event completequest=mor_orb_3
+Quest ann_orb_4 already in progress. 
+Triggered event triggerquest=ann_orb_4
+Go Location: Backroom
+Releasing room Highcamp (UnityEngine.GameObject)
+Triggered event add=tri, 1
+Triggered event add=ann, 3
+Triggered event updateachievements
+Triggered event girlfact=ann_smoke
+Go Location: Outcrop
+Releasing room DungeonDescend (UnityEngine.GameObject)
+Go Location: Inn
+Releasing room dungeon (UnityEngine.GameObject)
+Triggered event add=tri,3
+Triggered event add=ros,1
+Complete Quest: ROS_Fungus_Container_1
+Triggered event completequest=ros_fungus_container_1
+Removed Flag: Evening
+Advancing time: Day 22 ( Night)
+Triggered event advancetime
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Smithy
+Triggered event add=tri,1
+Triggered event add=pog,3
+Removed Flag: Morning
+Advancing time: Day 23 ( Day)
+Triggered event advancetime
+Removed Flag: Day
+Advancing time: Day 23 ( Evening)
+Triggered event advancetime
+Removed Flag: Evening
+Advancing time: Day 23 ( Night)
+Triggered event advancetime
+Triggered event moveall=armory_close_up
+Triggered event unlockroom=armory
+Releasing room RoomTRI (UnityEngine.GameObject)
+Go Location: armory_close_up
+Audio Clip is null
+Releasing room Smithy (UnityEngine.GameObject)
+Character Spine PogPoxy destroyed
+Complete Quest: POG_Amulet_6
+Triggered event completequest=pog_amulet_6
+Go Location: smithy
+Triggered event go=smithy
+Releasing room RoomPog (UnityEngine.GameObject)
+Go Location: RoomTRI
+Triggered event remove=tri
+Triggered event advancetime
+Triggered event advancetime
+Triggered event advancetime
+Releasing room Library (UnityEngine.GameObject)
+Character Spine MORProxy destroyed
+Removed Flag: Night
+Triggered event advancetimeandsleep
+Go Location: Backroom
+Go Location: Inn
+Audio Clip is null
+Go Location: Shop
+Releasing room Backroom (UnityEngine.GameObject)
+Triggered event add=ann,4
+Triggered event openshop
+NET CHANGE: 100 || False
+Triggered event add=tri,1
+Triggered event add=ann, 3
+Complete Quest: ANN_Orb_4
+Triggered event completequest=ann_orb_4
+Quest tri_orb_5 already in progress. 
+Triggered event triggerquest=tri_orb_5
+Go Location: Inn
+Go Location: Foyer
+Audio Clip is null
+Releasing room Outcrop (UnityEngine.GameObject)
+Go Location: RoomTRI
+Audio Clip is null
+Triggered event add=tri,5
+Triggered event setzoom=zoom_orb
+Removed Flag: got_item_orb_stand_b
+Triggered event loseitem=item_orb_stand_b
+UNABLE TO REMOVE: (1) OF (item_orb). NOT ENOUGH IN INVENTORY
+Triggered event loseitem=item_orb
+Triggered event add=tri, 6
+Triggered event setzoom=zoom_orb_more
+calling fade call transition
+Triggered event add=tri,5
+Triggered event setzoom=zoom_orb
+Complete Quest: TRI_Orb_5
+Triggered event completequest=tri_orb_5
+Quest tri_orb_6 already in progress. 
+Triggered event triggerquest=tri_orb_6
+Triggered event remove=tri
+Go Location: Foyer
+Audio Clip is null
+Go Location: Inn
+Audio Clip is null
+Go Location: Passage
+Releasing room Armory_Close_Up (UnityEngine.GameObject)
+Go Location: Cellar
+Audio Clip is null
+Releasing room inn (UnityEngine.GameObject)
+Triggered event add=tri,2
+Adding invalid item (item_box)
+Adding invalid item (item_box)
+Triggered event gainitem=item_box
+Complete Quest: ROS_Fungus_Container_2_Box
+Triggered event completequest=ros_fungus_container_2_box
+Triggered event refreshquests
+Go Location: Inn
+Releasing room Armory (UnityEngine.GameObject)
+Character Spine PogPoxy destroyed
+Go Location: Dockside
+Audio Clip is null
+Releasing room Smithy (UnityEngine.GameObject)
+Character Spine PogPoxy destroyed
+Go Location: Stables
+Audio Clip is null
+Releasing room RoomTRI (UnityEngine.GameObject)
+Triggered event add=tri,2
+Triggered event gainitem=item_hay
+Complete Quest: ROS_Fungus_Container_2_Hay
+Triggered event completequest=ros_fungus_container_2_hay
+Triggered event refreshquests
+Go Location: Backroom
+Releasing room Shop (UnityEngine.GameObject)
+Go Location: Laboratory
+Releasing room Foyer (UnityEngine.GameObject)
+Character Spine Default(Clone) destroyed
+Triggered event add=tri,1
+Triggered event add=ize,3
+Triggered event moveall=grotto
+Triggered event unlockroom=grotto
+Releasing room Passage (UnityEngine.GameObject)
+Go Location: grotto
+Triggered event moveall=grotto_inside
+Releasing room Cellar (UnityEngine.GameObject)
+Go Location: grotto_inside
+Trying to load minigame: DragToPlace_IZE_Corpse
+Triggered event startmg=dragtoplace_ize_corpse
+Successfully loaded minigame: DragToPlace_IZE_Corpse False
+Queuing conversation IZE_Spores_1_1_MG (BrightBit.Conversation)
+Go Location: Minigames
+Audio Clip is null
+SETUP (1): 1 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 2 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 3 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 4 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 5 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 6 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 7 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 8 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 9 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 10 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 11 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 12 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 13 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 14 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 15 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 16 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 17 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 18 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 19 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 20 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 21 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 22 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 1 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 2 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 3 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 4 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 5 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 6 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 7 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 8 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 9 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 10 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 11 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 12 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 13 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 14 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 15 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 16 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 17 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 18 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 19 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 20 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 21 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SETUP (1): 22 || Sprites-Default (Instance)
+SETUP (2): Sprites-Default (Instance)
+SKIP ROUTINE
+Go Location: Grotto_Inside
+Triggered event add=tri,1
+Triggered event add=ize,3
+Removed Flag: Morning
+Advancing time: Day 24 ( Day)
+Triggered event advancetime
+Triggered event showfrontend
+Destroying minigame: DragToPlace_IZE_Corpse(Clone)
+Triggered event triggerquest=ize_spores_2_1
+Triggered event triggerquest=ize_spores_2_2
+Triggered event triggerquest=ize_spores_2_3
+Complete Quest: IZE_Spores_1
+Triggered event completequest=ize_spores_1
+Go Location: crossroads
+Triggered event go=crossroads
+Releasing room inn (UnityEngine.GameObject)
+<color=#ff7337><color=#0099bc><b>DOTWEEN ► </b></color> SAFE MODE ►</color> DOTween's safe mode captured 13 errors. This is usually ok (it's what safe mode is there for) but if your game is encountering issues you should set Log Behaviour to Default in DOTween Utility Panel in order to get detailed warnings when an error is captured (consider that these errors are always on the user side).
+- 11 missing target or field errors
+- 2 startup errors
+Character Spine IzeProxy destroyed
+Character Spine Default destroyed
+Character Spine Smokepipe destroyed
+Character Spine Default_holding destroyed
+Character Spine Hug destroyed
+Character Spine Kiss destroyed
+Character Spine Undress destroyed
+Character Spine Sit destroyed
+Character Spine Default destroyed
+Character Spine Default destroyed
+Character Spine Default destroyed
+Character Spine Default destroyed
+Character Spine Default destroyed
+Character Spine Undress destroyed
+Character Spine Default destroyed
+Character Spine Sit destroyed
+Character Spine Default destroyed
+Character Spine default destroyed
+Character Spine default destroyed
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 2546 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 3 frames, [32.0 KB-64.0 KB]: 5424525 frames, [64.0 KB-128.0 KB]: 90937 frames, [128.0 KB-256.0 KB]: 43809 frames, [256.0 KB-0.5 MB]: 21 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 4 frames, [4.0 MB-8.0 MB]: 3 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.9 MB
+      Peak Allocated Bytes 6.8 MB
+      Overflow Count 5
+    [ALLOC_TEMP_Job.Worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 508.5 KB
+      Overflow Count 26677
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 27.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 3.8 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Job.Worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 56.0 KB
+      Peak Allocated Bytes 53.1 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 60.0 KB
+      Peak Allocated Bytes 59.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 20.1 KB
+      Overflow Count 3
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.6 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 20.1 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 4.1 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 24.7 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 26.5 KB
+      Overflow Count 2
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 24.7 KB
+      Overflow Count 3
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 44.0 KB
+      Peak Allocated Bytes 40.6 KB
+      Overflow Count 6
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 26.5 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 10
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 22.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 56.0 KB
+      Peak Allocated Bytes 53.6 KB
+      Overflow Count 5
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 31.8 KB
+      Overflow Count 3
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 5.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 197.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 96.0 KB
+      Peak Allocated Bytes 95.3 KB
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 7171
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 12280250
+        32B: 9 Subsections = 4608 buckets. Failed count: 133640173
+        48B: 17 Subsections = 5802 buckets. Failed count: 668116419
+        64B: 199 Subsections = 50944 buckets. Failed count: 1958665
+        80B: 19 Subsections = 3891 buckets. Failed count: 6335310
+        96B: 4 Subsections = 682 buckets. Failed count: 66876
+        112B: 2 Subsections = 292 buckets. Failed count: 78683701
+        128B: 3 Subsections = 384 buckets. Failed count: 128736
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 2545 frames, [16.0 MB-32.0 MB]: 54183 frames, [32.0 MB-64.0 MB]: 5505124 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 63.1 MB
+      Peak Large allocation bytes 16.1 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 942 frames, [8.0 MB-16.0 MB]: 143 frames, [16.0 MB-32.0 MB]: 621 frames, [32.0 MB-64.0 MB]: 456 frames, [64.0 MB-128.0 MB]: 23 frames, [128.0 MB-256.0 MB]: 40 frames, [256.0 MB-0.50 GB]: 37 frames, [0.50 GB-1.00 GB]: 1470 frames, [1.00 GB-2.00 GB]: 5558120 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 74
+      Peak Allocated memory 1.46 GB
+      Peak Large allocation bytes 330.2 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 27
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 9
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 12280250
+        32B: 9 Subsections = 4608 buckets. Failed count: 133640173
+        48B: 17 Subsections = 5802 buckets. Failed count: 668116419
+        64B: 199 Subsections = 50944 buckets. Failed count: 1958665
+        80B: 19 Subsections = 3891 buckets. Failed count: 6335310
+        96B: 4 Subsections = 682 buckets. Failed count: 66876
+        112B: 2 Subsections = 292 buckets. Failed count: 78683701
+        128B: 3 Subsections = 384 buckets. Failed count: 128736
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 1581 frames, [64.0 KB-128.0 KB]: 971 frames, [128.0 KB-256.0 KB]: 3 frames, [0.5 MB-1.0 MB]: 5934 frames, [1.0 MB-2.0 MB]: 6647 frames, [2.0 MB-4.0 MB]: 15367 frames, [4.0 MB-8.0 MB]: 27107 frames, [8.0 MB-16.0 MB]: 3087 frames, [16.0 MB-32.0 MB]: 22184 frames, [32.0 MB-64.0 MB]: 5402733 frames, [64.0 MB-128.0 MB]: 76238 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 77.5 MB
+      Peak Large allocation bytes 8.1 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 992 frames, [8.0 MB-16.0 MB]: 17 frames, [16.0 MB-32.0 MB]: 47 frames, [32.0 MB-64.0 MB]: 72 frames, [64.0 MB-128.0 MB]: 114 frames, [128.0 MB-256.0 MB]: 441 frames, [256.0 MB-0.50 GB]: 5560169 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 11
+      Peak Allocated memory 411.6 MB
+      Peak Large allocation bytes 256.1 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 132
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 12280250
+        32B: 9 Subsections = 4608 buckets. Failed count: 133640173
+        48B: 17 Subsections = 5802 buckets. Failed count: 668116419
+        64B: 199 Subsections = 50944 buckets. Failed count: 1958665
+        80B: 19 Subsections = 3891 buckets. Failed count: 6335310
+        96B: 4 Subsections = 682 buckets. Failed count: 66876
+        112B: 2 Subsections = 292 buckets. Failed count: 78683701
+        128B: 3 Subsections = 384 buckets. Failed count: 128736
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 2539 frames, [2.0 MB-4.0 MB]: 5559303 frames, [4.0 MB-8.0 MB]: 10 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 2
+      Peak Allocated memory 5.2 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 977 frames, [2.0 MB-4.0 MB]: 4 frames, [4.0 MB-8.0 MB]: 10 frames, [8.0 MB-16.0 MB]: 1019 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 1369 frames, [64.0 MB-128.0 MB]: 5558468 frames, [128.0 MB-256.0 MB]: 3 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 28
+      Peak Allocated memory 140.0 MB
+      Peak Large allocation bytes 48.0 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 12280250
+        32B: 9 Subsections = 4608 buckets. Failed count: 133640173
+        48B: 17 Subsections = 5802 buckets. Failed count: 668116419
+        64B: 199 Subsections = 50944 buckets. Failed count: 1958665
+        80B: 19 Subsections = 3891 buckets. Failed count: 6335310
+        96B: 4 Subsections = 682 buckets. Failed count: 66876
+        112B: 2 Subsections = 292 buckets. Failed count: 78683701
+        128B: 3 Subsections = 384 buckets. Failed count: 128736
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 723 frames, [4.0 KB-8.0 KB]: 1832 frames, [8.0 KB-16.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 5559296 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 58.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 2362 frames, [8.0 KB-16.0 KB]: 104 frames, [16.0 KB-32.0 KB]: 70 frames, [32.0 KB-64.0 KB]: 13 frames, [64.0 KB-128.0 KB]: 950 frames, [128.0 KB-256.0 KB]: 11 frames, [256.0 KB-0.5 MB]: 17 frames, [0.5 MB-1.0 MB]: 38 frames, [1.0 MB-2.0 MB]: 561 frames, [2.0 MB-4.0 MB]: 5453496 frames, [4.0 MB-8.0 MB]: 104230 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 3
+      Peak Allocated memory 4.3 MB
+      Peak Large allocation bytes 0 B
