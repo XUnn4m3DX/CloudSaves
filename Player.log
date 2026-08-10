@@ -11,20 +11,32 @@ Direct3D:
     VRAM:     7957 MB
     Driver:   32.0.15.8180
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.999 seconds
+- Completed reload, in  1.733 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 28.862800 ms
+UnloadTime: 28.931500 ms
 Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
 Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
-Loading game. Version : 0.8.1
+Loading game. Version : 0.8.2a
 The referenced script (paradise.ToolSet) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Tools') is missing!
-Game starting : version 0.8.1, platform: WindowsPlayer
+Game starting : version 0.8.2a, platform: WindowsPlayer
 System Locale : en-MY
 Validating room: MainMenu
-Validating room: Beach
+Hiding Main Menu
+Material SpankBankMat doesn't have _Stencil property
+Material InactiveSpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material InactiveSpankBankMat doesn't have _Stencil property
+Material InactiveSpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Material SpankBankMat doesn't have _Stencil property
+Validating room: Seahut2
 Playing animation location_exit_up then location_enter_up
 Playing animation frontend_topleft_enter
 Playing animation frontend_topright_enter
@@ -32,196 +44,102 @@ Playing animation frontend_topcenter_enter
 Invalid animation frontend_topcenter_enter
 Playing animation datetime_flip_down
 Hiding Main Menu
-Validating room: Beach
-Playing animation location_exit_up then location_enter_up
-Playing animation OpenQuestUI
-Advancing time: Day 129 ( Evening)
-Playing animation datetime_flip_up then datetime_flip_down
-Advancing time: Day 129 ( Night)
-Playing animation datetime_flip_up then datetime_flip_down
 Validating room: Seahut2
 Playing animation location_exit_up then location_enter_up
-Playing animation CloseQuestUI
-Starting conversation BasicSleep with myself
-Playing animation conversation_popin
-Validating room: Seahut2
-Triggered event clearfailsafe
-Queuing conversation alone_dreams (BrightBit.Conversation)
-Triggered event generatedreamflags
-Triggered event advancetonight
-Starting conversation alone_dreams with myself
-Playing animation datetime_flip_up then datetime_flip_down
-Triggered event advanceday
-Validating room: Seahut2
-Playing animation conversation_popout_full
 Starting conversation hotfixes with myself
 Playing animation conversation_popin
-Triggered event setpromosenabled
-Trying to unlock painting reyna_dress more than once
-Triggered event unlockpainting=reyna_dress
-Triggered event ensurenick=flower_purple, waterlilies
-Triggered event clearflag=bar_deck_pole
 Playing animation QuestNotification
 Playing animation hide_during_notification
 Invalid animation hide_during_notification
-Triggered event triggerquest=minamisunanal_1
-Starting conversation story_reminders with myself
-Triggered event add=jack, 2
-Triggered event sfx=phoneringloop
-Triggered event stopsfx
-Queuing conversation 204_KeijoUniform (BrightBit.Conversation)
-Triggered event queueconversation=204_keijouniform
-Starting conversation 204_KeijoUniform with myself
-Triggered event add=jack, 2
-Triggered event pipflip=olga, 3
-Triggered event removepip
-Character Spine default destroyed
-Validating room: Lobby
-Character Spine Default(Clone) destroyed
-Character Spine Default(Clone) destroyed
-Character Spine Default(Clone) destroyed
-Validating room: Lobby
-Validating room: Lobby
-Playing animation location_exit_up then location_enter_up
-Triggered event add=olga, 14
-Triggered event add=hunter, 15
-Triggered event add=jack, 16
-Triggered event setzoominstant=lobby_desk
-Triggered event add=jack, 15
-Triggered event add=hunter, 16
-Triggered event remove=olga
-Trying to load minigame: decon_uniform
-Triggered event startmg=decon_uniform
+Triggered event triggerquest=jennandreathreesome_1
 Playing animation conversation_popout_full
-Validating room: Hall
-Successfully loaded minigame: decon_uniform
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Validating room: Kitchen
+Playing animation location_exit_up then location_enter_up
+Playing animation OpenQuestUI
+Playing animation CloseQuestUI
+Starting conversation 230_JennAndreaThreesome with myself
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Trying to load minigame: ftd_teatower
+Triggered event startmg=ftd_teatower
+Playing animation conversation_popout_full
+Successfully loaded minigame: ftd_teatower
 Validating room: Minigames
 Playing animation location_exit_up then location_enter_up
-Validating room: room21
-Validating room: Hall
-Validating room: Lobby
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Validating room: Basement
-Releasing room Beach (UnityEngine.GameObject)
-Validating room: Lobby
-Validating room: Basement
-Validating room: Lobby
-Validating room: Hall
-Validating room: Pool
-Releasing room SeaHut2 (UnityEngine.GameObject)
-No valid conversation options. Here's what I tried: 
-Conversation moderate_with_scarlett failed because Required flags Missing flag evening missing
-Conversation 144_ToriConflict2 failed because Required flags Missing flag chunk_ToriConflict_2 missing
-Conversation 178_ZorbStart4 failed because Required flags Missing flag chunk_ZorbStart_2 missing
-Conversation 206_KeijoUniform3 failed because Required flags Missing flag chunk_KeijoUniform_2 missing
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Validating room: Hall
-Validating room: room22
-Releasing room Room21 (UnityEngine.GameObject)
-Validating room: Hall
-Validating room: room23
-Releasing room Basement (UnityEngine.GameObject)
-Validating room: Hall
-Validating room: room20
-Releasing room Lobby (UnityEngine.GameObject)
-Validating room: Hall
-Validating room: Lobby
-Character Spine Default(Clone) destroyed
-Character Spine Default(Clone) destroyed
-Character Spine Default(Clone) destroyed
-Releasing room Pool (UnityEngine.GameObject)
-Validating room: balcony
-Releasing room Room22 (UnityEngine.GameObject)
-Validating room: Lounge
-Releasing room Room23 (UnityEngine.GameObject)
-Validating room: Balcony
-Validating room: Lobby
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Playing animation conversation_popin
-Playing animation conversation_popout_full
-Validating room: resort
-Releasing room Room20 (UnityEngine.GameObject)
-Validating room: bamboopath
-Releasing room Hall (UnityEngine.GameObject)
-Validating room: Grove
-Releasing room Lounge (UnityEngine.GameObject)
-Trying to load minigame: FLOWER_RED
-Successfully loaded minigame: FLOWER_RED
-Validating room: Minigames
 Playing animation minigame_complete
 Playing animation frontend_topleft_enter
 Playing animation frontend_topright_enter
 Playing animation frontend_topcenter_enter
 Invalid animation frontend_topcenter_enter
 Playing animation datetime_flip_down
-Validating room: Grove
-Playing animation location_exit_up then location_enter_up
-Advancing time: Day 130 ( Day)
-Playing animation datetime_flip_up then datetime_flip_down
-Validating room: BambooPath
-Playing animation location_exit_up then location_enter_up
-Validating room: Resort
-Playing animation location_exit_up then location_enter_up
-Validating room: Lobby
-Playing animation location_exit_up then location_enter_up
-Validating room: Basement
-Releasing room Balcony (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: Generator
-Releasing room Grove (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: Basement
-Playing animation location_exit_up then location_enter_up
-Starting conversation lock_storage with myself
-Playing animation conversation_popin
-Playing animation conversation_popout_full
 Validating room: Kitchen
-Releasing room BambooPath (UnityEngine.GameObject)
 Playing animation location_exit_up then location_enter_up
-Validating room: Basement
-Playing animation location_exit_up then location_enter_up
-Validating room: Lobby
-Playing animation location_exit_up then location_enter_up
-Validating room: Hall
-Releasing room Resort (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: room20
-Releasing room Generator (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: Hall
-Playing animation location_exit_up then location_enter_up
-Validating room: Lobby
-Playing animation location_exit_up then location_enter_up
-Validating room: balcony
-Releasing room Kitchen (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: room3
-Releasing room Basement (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: Balcony
-Playing animation location_exit_up then location_enter_up
-Validating room: room1
-Releasing room Room20 (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Validating room: Balcony
-Playing animation location_exit_up then location_enter_up
-Validating room: Lobby
-Playing animation location_exit_up then location_enter_up
-Validating room: resort
-Releasing room Hall (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Advancing time: Day 130 ( Evening)
+Starting conversation 231_JennAndreaThreesome2 with myself
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Advancing time: Day 133 ( Day)
+Advancing time: Day 133 ( Evening)
 Playing animation datetime_flip_up then datetime_flip_down
-Advancing time: Day 130 ( Night)
+Triggered event advancetoevening
+Triggered event add=andrea, 0
+Validating room: Restaurant_closeup
+Validating room: Restaurant_closeup
+Validating room: Restaurant_closeup
+Playing animation location_exit_up then location_enter_up
+Triggered event add=jenn, 7
+Triggered event addandsort=jack, 8, 0
+Triggered event add=andrea, 9
+Validating room: Restaurant
+Validating room: Restaurant
+Validating room: Restaurant
+Playing animation location_exit_up then location_enter_up
+Triggered event add=jack, 0
+Triggered event add=andrea, 3
+Triggered event add=jenn, 4
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_2
+Playing animation conversation_popout_full
+Playing animation OpenQuestUI
+No valid conversation options. Here's what I tried: 
+Conversation 023_AndreaOliveOil failed because Required flags Missing flag started_LodgeRitual missing
+Conversation 049_MinaOil2 failed because Required flags Missing flag chunk_MinaOil_1 missing
+Conversation 074_RecruitAndrea failed because Required flags Missing flag chunk_RecruitASV_1 missing
+Conversation 168_JennMassage4 failed because Required flags Missing flag chunk_JennMassage_2 missing
+Conversation garden_with_andrea failed because unknown error
+Conversation 211_ComfortVivianAndrea failed because Required flags Missing flag chunk_ComfortVivian_andrea missing
+Conversation 239_JennAndreaThreesome9 failed because Required flags Missing flag chunk_JennAndreaThreesome_5 missing
+Playing animation conversation_popout_full
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Playing animation CloseQuestUI
+Advancing time: Day 133 ( Night)
 Playing animation datetime_flip_up then datetime_flip_down
 Validating room: Seahut2
-Releasing room Room3 (UnityEngine.GameObject)
 Playing animation location_exit_up then location_enter_up
+Starting conversation 232_JennAndreaThreesome3 with myself
+Triggered event add=jack, 2
+Triggered event sfx=phoneringloop
+Triggered event stopsfx
+Playing animation open_handphone
+Triggered event message=jenn_andrea_threesome
+Playing animation conversation_popout_full
+Playing animation notification
+Starting conversation 233_JennAndreaThreesome4 with myself
+Trying to unlock wallpaper jenn_001 more than once
+Triggered event closehp
+Triggered event add=jack, 2
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_3
+Playing animation conversation_popout_full
 Starting conversation BasicSleep with myself
-Playing animation conversation_popin
 Validating room: Seahut2
 Triggered event clearfailsafe
 Queuing conversation alone_dreams (BrightBit.Conversation)
@@ -233,292 +151,510 @@ Triggered event advanceday
 Validating room: Seahut2
 Playing animation conversation_popout_full
 Starting conversation hotfixes with myself
-Playing animation conversation_popin
+Starting conversation story_reminders with myself
+Triggered event add=jack, 2
+Triggered event sfx=phoneringloop
+Triggered event stopsfx
+Playing animation open_handphone
+Triggered event message=jenn_andrea_threesome2
+Playing animation conversation_popout_full
+Starting conversation 234_JennAndreaThreesome5 with myself
+Trying to unlock wallpaper jenn_001 more than once
+Triggered event closehp
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_4
 Playing animation conversation_popout_full
 Playing animation OpenQuestUI
 Playing animation CloseQuestUI
 Validating room: map
 Playing animation location_exit_up then location_enter_up
-Validating room: Backroom
-Releasing room Room1 (UnityEngine.GameObject)
+Validating room: Kitchen
 Playing animation location_exit_up then location_enter_up
-No valid conversation options. Here's what I tried: 
-Conversation 001_MinaActivity failed because Required flags Missing flag chunk_MinaActivity_1 missing
-Conversation 002a_MinaActivity failed because Required flags Missing flag chunk_MinaActivity_2 missing
-Conversation 051_MinaOil3 failed because Required flags Missing flag chunk_MinaOil_3 missing
-Conversation bar_with_mina failed because unknown error
-Conversation 063_MinaCoconut2 failed because Required flags Missing flag chunk_MinaCoconut_2 missing
-Conversation 079_RecruitMina failed because Required flags Missing flag chunk_RecruitMLM_3 missing
-Conversation 201_MinaMisunAnal failed because Required flags Missing flag day missing
-The referenced script on this Behaviour (Game Object '0') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script on this Behaviour (Game Object '0') is missing!
-The referenced script on this Behaviour (Game Object '0') is missing!
+Starting conversation 235_JennAndreaThreesome6 with myself
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_bananas
+Triggered event triggerquest=jennandreathreesome_vanilla
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
 Playing animation conversation_popout_full
+Playing animation open_handphone
+Playing animation close_handphone
+Starting conversation 236_BoughtVanillaBeans with myself
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_vanilla_end
+Triggered event add=jack, 2
+Playing animation conversation_popout_full
+Playing animation open_handphone
+Playing animation close_handphone
 Playing animation OpenQuestUI
+Validating room: map
+Playing animation location_exit_up then location_enter_up
 Playing animation CloseQuestUI
-Advancing time: Day 131 ( Day)
-Playing animation datetime_flip_up then datetime_flip_down
-Validating room: Bar
-Releasing room Balcony (UnityEngine.GameObject)
+Validating room: Lagoon
 Playing animation location_exit_up then location_enter_up
-Starting conversation 201_MinaMisunAnal with myself
-Triggered event add=jack, 1
-Triggered event add=mina, 3
-Triggered event add=misun, 4
-Validating room: Bar_closeup
-Releasing room Lobby (UnityEngine.GameObject)
-Validating room: Bar_closeup
-Validating room: Bar_closeup
+Validating room: TowerPath
+Releasing room Restaurant_closeup (UnityEngine.GameObject)
 Playing animation location_exit_up then location_enter_up
-Triggered event add=mina, 1
-Triggered event add=jack, 12
-Triggered event add=misun, 13
-Triggered event add=misun, 4
-Triggered event remove=misun
-Validating room: TreehouseA
-Releasing room Resort (UnityEngine.GameObject)
-Validating room: TreehouseA
-Validating room: TreehouseA
-Playing animation location_exit_up then location_enter_up
-Triggered event add=mina, 0
-Triggered event add=jack, 1
-Triggered event add=sophia, 3
-Triggered event add=jack,0
-Triggered event add=mina,1
-Trying to load minigame: dto_buttplugs
-Triggered event startmg=dto_buttplugs
-Playing animation conversation_popout_full
-Successfully loaded minigame: dto_buttplugs
+Starting conversation gather_banana with myself
+Triggered event add=jack, 2
+Triggered event remove=jack
+Trying to load minigame: bananatrees
+Triggered event startmg=bananatrees
+Successfully loaded minigame: bananatrees
 Validating room: Minigames
 Playing animation location_exit_up then location_enter_up
+Playing animation conversation_popout_full
+Playing animation frontend_topleft_enter
+Playing animation frontend_topright_enter
+Playing animation frontend_topcenter_enter
+Invalid animation frontend_topcenter_enter
+Playing animation datetime_flip_down
+Validating room: TowerPath
+Playing animation location_exit_up then location_enter_up
+Advancing time: Day 134 ( Day)
+Playing animation datetime_flip_up then datetime_flip_down
+Advancing time: Day 134 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Starting conversation gather_banana with myself
+Triggered event add=jack, 2
+Playing animation conversation_popout_full
+Advancing time: Day 134 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Validating room: Seahut2
+Playing animation location_exit_up then location_enter_up
+Starting conversation BasicSleep with myself
+Validating room: Seahut2
+Triggered event clearfailsafe
+Queuing conversation alone_dreams (BrightBit.Conversation)
+Triggered event generatedreamflags
+Triggered event advancetonight
+Starting conversation alone_dreams with myself
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advanceday
+Validating room: Seahut2
+Playing animation conversation_popout_full
+Starting conversation hotfixes with myself
+Playing animation conversation_popout_full
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Validating room: Lagoon
+Playing animation location_exit_up then location_enter_up
+Validating room: TowerPath
+Playing animation location_exit_up then location_enter_up
+Starting conversation gather_banana with myself
+Trying to load minigame: bananatrees
+Triggered event startmg=bananatrees
+Successfully loaded minigame: bananatrees
+Validating room: Minigames
+Playing animation location_exit_up then location_enter_up
+Playing animation conversation_popout_full
+Playing animation frontend_topleft_enter
+Playing animation frontend_topright_enter
+Playing animation frontend_topcenter_enter
+Invalid animation frontend_topcenter_enter
+Playing animation datetime_flip_down
+Validating room: TowerPath
+Playing animation location_exit_up then location_enter_up
+Advancing time: Day 135 ( Day)
+Playing animation datetime_flip_up then datetime_flip_down
+Advancing time: Day 135 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Starting conversation gather_banana with myself
+Triggered event add=jack, 2
+Playing animation conversation_popout_full
+Advancing time: Day 135 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Validating room: Seahut2
+Playing animation location_exit_up then location_enter_up
+Starting conversation BasicSleep with myself
+Validating room: Seahut2
+Triggered event clearfailsafe
+Queuing conversation alone_dreams (BrightBit.Conversation)
+Triggered event generatedreamflags
+Triggered event advancetonight
+Starting conversation alone_dreams with myself
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advanceday
+Validating room: Seahut2
+Playing animation conversation_popout_full
+Starting conversation hotfixes with myself
+Playing animation conversation_popout_full
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Validating room: Lagoon
+Playing animation location_exit_up then location_enter_up
+Validating room: TowerPath
+Playing animation location_exit_up then location_enter_up
+Starting conversation gather_banana with myself
+Trying to load minigame: bananatrees
+Triggered event startmg=bananatrees
+Successfully loaded minigame: bananatrees
+Validating room: Minigames
+Playing animation location_exit_up then location_enter_up
+Playing animation conversation_popout_full
+Playing animation frontend_topleft_enter
+Playing animation frontend_topright_enter
+Playing animation frontend_topcenter_enter
+Invalid animation frontend_topcenter_enter
+Playing animation datetime_flip_down
+Validating room: TowerPath
+Playing animation location_exit_up then location_enter_up
+Advancing time: Day 136 ( Day)
+Playing animation datetime_flip_up then datetime_flip_down
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Validating room: Restaurant
+Playing animation location_exit_up then location_enter_up
+Starting conversation 237_JennAndreaThreesome7 with myself
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Validating room: Kitchen
+Validating room: Kitchen
+Validating room: Kitchen
+Playing animation location_exit_up then location_enter_up
+Triggered event loseitem=banana, 3
+Triggered event loseitem=vanilla_bean, 1
+Trying to load minigame: blocktris_jenn
+Triggered event startmg=blocktris_jenn
+Playing animation conversation_popout_full
+Successfully loaded minigame: blocktris_jenn
+Validating room: Minigames
+Playing animation location_exit_up then location_enter_up
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+RELEASE
+Playing animation frontend_topleft_enter
+Playing animation frontend_topright_enter
+Playing animation frontend_topcenter_enter
+Invalid animation frontend_topcenter_enter
+Playing animation datetime_flip_down
+Validating room: Kitchen
+Playing animation location_exit_up then location_enter_up
+Starting conversation 238_JennAndreaThreesome8 with myself
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Playing animation QuestNotification
+Playing animation hide_during_notification
+Invalid animation hide_during_notification
+Triggered event triggerquest=jennandreathreesome_5
+Playing animation conversation_popout_full
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Validating room: Garden
+Releasing room SeaHut2 (UnityEngine.GameObject)
+Playing animation location_exit_up then location_enter_up
+Starting conversation garden_with_andrea with myself
+Triggered event add=jack, 1
+Triggered event add=andrea, 3
+Validating room: Riverside
+Releasing room Lagoon (UnityEngine.GameObject)
+Validating room: Riverside
+Validating room: Riverside
+Playing animation location_exit_up then location_enter_up
+Playing Spine jack+andrea_gardening
+Playing Spine jack+andrea_gardening
+Playing Spine jack+andrea_gardening
+Playing Spine jack+andrea_gardening
+Playing Spine jack+andrea_gardening
+Triggered event cash=50
+Validating room: Riverside
+Advancing time: Day 136 ( Evening)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetime
+Triggered event setblackout=0
+Playing animation conversation_popout_full
+Validating room: map
+Playing animation location_exit_up then location_enter_up
+Validating room: Restaurant
+Playing animation location_exit_up then location_enter_up
+Starting conversation 239_JennAndreaThreesome9 with myself
+Triggered event add=jack, 1
+Triggered event add=andrea, 3
+Validating room: Riverside
+Validating room: Riverside
+Validating room: Riverside
+Playing animation location_exit_up then location_enter_up
+Trying to load minigame: color_andrea
+Triggered event startmg=color_andrea
+Successfully loaded minigame: color_andrea
+Validating room: Minigames
+Playing animation location_exit_up then location_enter_up
+Playing animation conversation_popout_full
+Starting conversation 239a_MidSketchAndrea with myself
+Playing animation conversation_popout_full
 Playing animation minigame_complete
 Playing animation frontend_topleft_enter
 Playing animation frontend_topright_enter
 Playing animation frontend_topcenter_enter
 Invalid animation frontend_topcenter_enter
 Playing animation datetime_flip_down
-Validating room: treehouseA
+Validating room: Riverside
 Playing animation location_exit_up then location_enter_up
-Starting conversation 202_MinaMisunAnal2 with myself
-Triggered event add=mina,1
-Triggered event add=jack, 0
-Triggered event add=sophia, 3
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Playing Spine mina_glamshot_buttplug
-Triggered event add=sophia, 0
+Starting conversation 240_JennAndreaThreesome10 with myself
 Triggered event add=jack, 1
-Triggered event add=mina, 3
-Triggered event add=mina, 2
-Triggered event remove=sophia
-Triggered event setzoom=left
+Triggered event add=andrea, 3
+Triggered event unlockpainting=andrea_artnouveau
+Triggered event setpainting=andrea, andrea_painting
+Trying to unlock painting andrea_artnouveau more than once
+Playing animation notification
+Triggered event add=andrea,2
+Triggered event remove=andrea
+Triggered event add=andrea,2
+Validating room: Beach
+Releasing room TowerPath (UnityEngine.GameObject)
+Validating room: Beach
+Validating room: Beach
+Playing animation location_exit_up then location_enter_up
+Triggered event add=andrea, 3
+Triggered event add=jack, 4
+Triggered event add=jenn, 0
+Triggered event add=jenn,1
+Triggered event add=andrea,2
+Triggered event remove=andrea
+Triggered event remove=jenn
+Triggered event add=andrea,2
+Triggered event add=jenn, 1
+Character Spine b5ba1a99801de954f99a2c87f2873fa6 destroyed
+Triggered event add=andrea,3
+Triggered event remove=andrea
+Triggered event add=andrea,3
+Triggered event startspanking=jenn_andrea_001
+Triggered event detach=andrea, itemhat
+Playing Spine jenn+jack+andrea_threesome_leadin_01
+Playing Spine jenn+jack+andrea_threesome_leadin_01
+Playing Spine jenn+jack+andrea_threesome_leadin_01
+Playing Spine jenn+jack+andrea_threesome_leadin_01
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_02
+Playing Spine jenn+jack+andrea_threesome_leadin_03
+Playing Spine jenn+jack+andrea_threesome_leadin_03
+Playing Spine jenn+jack+andrea_threesome_leadin_04
+Playing Spine jenn+jack+andrea_threesome_leadin_04
+Playing Spine jenn+jack+andrea_threesome_leadin_04
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_03_insert_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_04_andrea_finger_slow
+Playing Spine jennfuck_04_andrea_finger_slow
+Playing Spine jennfuck_04_andrea_finger_slow
+Playing Spine jennfuck_04_andrea_finger_slow
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 02_insert_dick
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 04a_fuckslow_eatjenn_start
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 05a_fuckslow_eatjenn_stop
+Playing Spine 05b_fuckslow_eatjenn_stop_idle
+Playing Spine 05b_fuckslow_eatjenn_stop_idle
+Playing Spine 05b_fuckslow_eatjenn_stop_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_01_idle
+Playing Spine jennfuck_03_insert_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_idle_finger_andrea
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_03_insert_dick_jenn_idle
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_slow
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_05_andrea_finger_fuckjenn_fast
+Playing Spine jennfuck_06_cum
+Playing Spine jennfuck_06_cum_idle
+Playing Spine jennfuck_06_cum_idle
+Playing Spine jennfuck_06_cum_idle
+Playing Spine jennfuck_07_pullout
+Playing Spine jennfuck_07_pullout_idle
+Playing Spine jennfuck_07_pullout_idle
+Playing Spine jennfuck_07_pullout_idle
+Playing Spine jennfuck_07_pullout_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 01_idle
+Playing Spine 02_insert_dick
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 03_insert_dick_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 04b_fuckslow_eatjenn_idle
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 06_fuckfast_eatjenn
+Playing Spine 07a_cum
+Playing Spine 07b_cum_idle
+Playing Spine 07b_cum_idle
+Playing Spine 07b_cum_idle
+Playing Spine 07b_cum_idle
+Playing Spine 07b_cum_idle
+Playing Spine 08a_pullout
+Playing Spine 08b_pullout_idle
+Playing Spine 08b_pullout_idle
+Playing Spine 08b_pullout_idle
+Playing Spine 08b_pullout_idle
+Playing Spine jenn+jack+andrea_threesome_outro_01
+Playing Spine jenn+jack+andrea_threesome_outro_01
+Playing Spine jenn+jack+andrea_threesome_outro_01
+Playing Spine jenn+jack+andrea_threesome_outro_01
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_02
+Playing Spine jenn+jack+andrea_threesome_outro_03
+Playing Spine jenn+jack+andrea_threesome_outro_03
+Playing Spine jenn+jack+andrea_threesome_outro_03
+Playing Spine jenn+jack+andrea_threesome_outro_03
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Playing Spine jenn+jack+andrea_threesome_outro_04
+Triggered event add=jack, 1
+Triggered event add=jenn, 3
+Triggered event add=andrea, 4
+Advancing time: Day 136 ( Night)
+Playing animation datetime_flip_up then datetime_flip_down
+Triggered event advancetonight
 Playing animation QuestNotification
 Playing animation hide_during_notification
 Invalid animation hide_during_notification
-Triggered event triggerquest=minamisunanal_2
-Playing animation conversation_popout_full
-Playing animation OpenQuestUI
-Playing animation CloseQuestUI
-Advancing time: Day 131 ( Evening)
-Playing animation datetime_flip_up then datetime_flip_down
-Advancing time: Day 131 ( Night)
-Playing animation datetime_flip_up then datetime_flip_down
-Starting conversation kickout_ropeways with myself
-Validating room: Ropeways
-Releasing room SeaHut2 (UnityEngine.GameObject)
-Validating room: Ropeways
-Validating room: Ropeways
-Playing animation location_exit_up then location_enter_up
-Playing animation conversation_popout_full
-Validating room: Seahut2
-Releasing room Backroom (UnityEngine.GameObject)
-Playing animation location_exit_up then location_enter_up
-Starting conversation 203_MinaMisunAnal3 with myself
-Triggered event add=jack, 2
-Triggered event sfx=phoneringloop
-Triggered event stopsfx
-Triggered event pipflip=misun, 3
-Validating room: Room20
-Releasing room Bar (UnityEngine.GameObject)
-Validating room: Room20
-Validating room: Room20
-Playing animation location_exit_up then location_enter_up
-Triggered event removepip
-Triggered event add=jack, 1
-Triggered event add=misun, 3
-Triggered event add=mina, 4
-Character Spine default destroyed
-Triggered event startspanking=mina_misun_001
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_1
-Playing Spine misun_mina_anal_leadin_2a
-Playing Spine misun_mina_anal_leadin_2a
-Playing Spine misun_mina_anal_leadin_2a
-Playing Spine misun_mina_anal_leadin_2a
-Playing Spine misun_mina_anal_leadin_2b
-Playing Spine misun_mina_anal_leadin_2b
-Playing Spine misun_mina_anal_leadin_2b
-Playing Spine misun_mina_anal_leadin_2b
-Playing Spine misun_mina_anal_leadin_3
-Playing Spine misun_mina_anal_leadin_3
-Playing Spine misun_mina_anal_leadin_3
-Playing Spine misun_mina_anal_leadin_4
-Playing Spine misun_mina_anal_leadin_4
-Playing Spine misun_mina_anal_leadin_4
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5a
-Playing Spine misun_mina_anal_leadin_5b
-Playing Spine misun_mina_anal_leadin_5b
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_01_idle_start
-Playing Spine mis_02a_insertFinger_mina
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_02b_insertFinger_mina_idle
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_03_minaMisun_kiss
-Playing Spine mis_04a_insert_dick
-Playing Spine mis_04b_insert_dick_idle
-Playing Spine mis_04b_insert_dick_idle
-Playing Spine mis_04b_insert_dick_idle
-Playing Spine mis_04b_insert_dick_idle
-Playing Spine mis_04b_insert_dick_idle
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_05_slowDeepFuck
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_06a_fastIntense_grabAss
-Playing Spine mis_07a_cum_in_ass
-Playing Spine mis_07b_cum_in_ass_idle_oface
-Playing Spine mis_07b_cum_in_ass_idle_oface
-Playing Spine mis_07b_cum_in_ass_idle_oface
-Playing Spine mis_07b_cum_in_ass_idle_oface
-Playing Spine mis_07b_cum_in_ass_idle_oface
-Playing Spine mis_08a_pullout
-Playing Spine mis_08b_pullout_idle
-Playing Spine mis_08b_pullout_idle
-Playing Spine mis_08b_pullout_idle
-Playing Spine mis_08b_pullout_idle
-Playing Spine mis_08b_pullout_idle
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_01_idle_start
-Playing Spine min_02a_insert_dick
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_02b_insert_dick_idle
-Playing Spine min_03a_insertFinger_misun
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_03b_insertFinger_misun_idle
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_04_slowDeepFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_05_fastIntenseFuck
-Playing Spine min_06a_cum_in_pussy
-Playing Spine min_06b_cum_in_pussy_idle
-Playing Spine min_07a_pullout
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Playing Spine min_07b_pullout_idle
-Validating room: Room20_bed
-Releasing room Bar_closeup (UnityEngine.GameObject)
-Validating room: Room20_bed
-Validating room: Room20_bed
-Playing animation location_exit_up then location_enter_up
-Playing animation QuestNotification
-Playing animation hide_during_notification
-Invalid animation hide_during_notification
-Triggered event triggerquest=minamisunanal_3
-Triggered event setblackout=0
+Triggered event triggerquest=jennandreathreesome_6
 Triggered event stopspanking
-Playing animation QuestNotification
-Playing animation hide_during_notification
-Invalid animation hide_during_notification
-Triggered event triggerquest=minanovel_1
+Validating room: FarmHut
+Releasing room Kitchen (UnityEngine.GameObject)
+Validating room: FarmHut
+Validating room: FarmHut
+Playing animation location_exit_up then location_enter_up
+Validating room: FarmHut_bed_top
+Releasing room Garden (UnityEngine.GameObject)
+Validating room: FarmHut_bed_top
+Validating room: FarmHut_bed_top
+Playing animation location_exit_up then location_enter_up
+Triggered event attach=andrea, itemhat
 Validating room: Seahut2
+Releasing room Restaurant (UnityEngine.GameObject)
 Validating room: Seahut2
 Validating room: Seahut2
 Playing animation location_exit_up then location_enter_up
@@ -526,113 +662,93 @@ Playing animation datetime_flip_up then datetime_flip_down
 Triggered event advanceday
 Playing animation character_content_hide
 Playing animation preview_fade
-Triggered event endupdate=mina
+Triggered event endupdate=jenn
 Playing animation conversation_popout_full
-Character Spine 75f39fbf498ddd54faaef42d6c64a689 destroyed
+Character Spine 17ba708371b9c9f4d9c0c4aa89274a2a destroyed
 Can't click through because of DemoEndUI
 Starting conversation hotfixes with myself
 Playing animation conversation_popout_full
 Playing animation OpenQuestUI
 Playing animation CloseQuestUI
-Advancing time: Day 132 ( Day)
-Playing animation datetime_flip_up then datetime_flip_down
-Advancing time: Day 132 ( Evening)
-Playing animation datetime_flip_up then datetime_flip_down
-Advancing time: Day 132 ( Night)
-Playing animation datetime_flip_up then datetime_flip_down
-Starting conversation BasicSleep with myself
-Validating room: Seahut2
-Triggered event clearfailsafe
-Queuing conversation alone_dreams (BrightBit.Conversation)
-Triggered event generatedreamflags
-Triggered event advancetonight
-Starting conversation alone_dreams with myself
-Playing animation datetime_flip_up then datetime_flip_down
-Triggered event advanceday
-Validating room: Seahut2
-Playing animation conversation_popout_full
-Starting conversation hotfixes with myself
-Playing animation conversation_popout_full
-Playing animation OpenQuestUI
-Playing animation CloseQuestUI
 Character Spine Default destroyed
-Character Spine Default destroyed
-Character Spine Default_holding destroyed
 Character Spine Sit destroyed
+Character Spine Undress destroyed
 Character Spine Default destroyed
+Character Spine Sit destroyed
+Character Spine Default_holding destroyed
+Character Spine Peck_andrea destroyed
+Character Spine Undress destroyed
 Character Spine default destroyed
 Character Spine sit destroyed
-Character Spine default destroyed
-Character Spine default destroyed
-Character Spine default destroyed
+Character Spine undress destroyed
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1563 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 76953 frames, [32.0 KB-64.0 KB]: 1654 frames, [64.0 KB-128.0 KB]: 1597 frames, [128.0 KB-256.0 KB]: 26 frames, [0.5 MB-1.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 1513 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 93402 frames, [32.0 KB-64.0 KB]: 34004 frames, [64.0 KB-128.0 KB]: 966 frames, [128.0 KB-256.0 KB]: 22 frames, [256.0 KB-0.5 MB]: 18938 frames, [0.5 MB-1.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 2 frames
       Initial Block Size 4.0 MB
-      Current Block Size 7.6 MB
+      Current Block Size 7.7 MB
       Peak Allocated Bytes 7.5 MB
       Overflow Count 1
     [ALLOC_TEMP_Job.Worker 18]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 30.3 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 510.4 KB
-      Overflow Count 2307
+      Peak Allocated Bytes 506.3 KB
+      Overflow Count 3078
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 5.2 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.7 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 16]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 11.5 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 14]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 17]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 12.1 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 462 B
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
       Initial Block Size 64.0 KB
@@ -642,22 +758,22 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.9 KB
+      Peak Allocated Bytes 18.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 7.4 KB
+      Peak Allocated Bytes 7.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.9 KB
+      Peak Allocated Bytes 2.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -667,17 +783,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 7.2 KB
+      Peak Allocated Bytes 8.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 30.3 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 11.9 KB
+      Peak Allocated Bytes 9.7 KB
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -687,32 +803,32 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 30.3 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 76.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 11.9 KB
+      Peak Allocated Bytes 7.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 30.3 KB
+      Peak Allocated Bytes 75.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.8 KB
+      Peak Allocated Bytes 2.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.6 KB
       Overflow Count 0
     [ALLOC_TEMP_EnlightenWorker] x 10
       Initial Block Size 64.0 KB
@@ -722,17 +838,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 15]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.0 KB
+      Peak Allocated Bytes 5.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.9 KB
+      Peak Allocated Bytes 2.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 7]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 8.9 KB
+      Peak Allocated Bytes 7.4 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
@@ -742,27 +858,27 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 9]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 76.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 76.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 75.3 KB
       Overflow Count 0
     [ALLOC_TEMP_CloudJob.Worker 0]
       Initial Block Size 32.0 KB
@@ -772,45 +888,45 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 15]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 30.3 KB
+      Peak Allocated Bytes 76.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.9 KB
+      Peak Allocated Bytes 77.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
-      Current Block Size 76.0 KB
-      Peak Allocated Bytes 74.3 KB
+      Current Block Size 104.0 KB
+      Peak Allocated Bytes 103.3 KB
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 1414
+  Peak main deferred allocation count 4030
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 182403
-        32B: 7 Subsections = 3584 buckets. Failed count: 649292
-        48B: 23 Subsections = 7850 buckets. Failed count: 576257
-        64B: 199 Subsections = 50944 buckets. Failed count: 2568
-        80B: 16 Subsections = 3276 buckets. Failed count: 124646
-        96B: 4 Subsections = 682 buckets. Failed count: 106984
-        112B: 2 Subsections = 292 buckets. Failed count: 289190
-        128B: 3 Subsections = 384 buckets. Failed count: 21524
+        16B: 2 Subsections = 2048 buckets. Failed count: 587090
+        32B: 7 Subsections = 3584 buckets. Failed count: 786006
+        48B: 19 Subsections = 6485 buckets. Failed count: 1005323
+        64B: 203 Subsections = 51968 buckets. Failed count: 2593
+        80B: 16 Subsections = 3276 buckets. Failed count: 316040
+        96B: 4 Subsections = 682 buckets. Failed count: 80283
+        112B: 2 Subsections = 292 buckets. Failed count: 310736
+        128B: 3 Subsections = 384 buckets. Failed count: 24277
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 1567 frames, [16.0 MB-32.0 MB]: 80231 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 1517 frames, [16.0 MB-32.0 MB]: 96773 frames, [32.0 MB-64.0 MB]: 50561 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
-      Peak Allocated memory 31.6 MB
+      Peak Allocated memory 38.3 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 625 frames, [8.0 MB-16.0 MB]: 157 frames, [16.0 MB-32.0 MB]: 16 frames, [32.0 MB-64.0 MB]: 527 frames, [64.0 MB-128.0 MB]: 12 frames, [128.0 MB-256.0 MB]: 72 frames, [256.0 MB-0.50 GB]: 45 frames, [0.50 GB-1.00 GB]: 80344 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 571 frames, [8.0 MB-16.0 MB]: 111 frames, [16.0 MB-32.0 MB]: 12 frames, [32.0 MB-64.0 MB]: 533 frames, [64.0 MB-128.0 MB]: 59 frames, [128.0 MB-256.0 MB]: 48 frames, [256.0 MB-0.50 GB]: 52 frames, [0.50 GB-1.00 GB]: 147465 frames
       Requested Block Size 16.0 MB
       Peak Block count 24
-      Peak Allocated memory 0.82 GB
-      Peak Large allocation bytes 484.3 MB
+      Peak Allocated memory 0.76 GB
+      Peak Large allocation bytes 414.9 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
   Used Block Count 1
@@ -828,62 +944,62 @@ Memory Statistics:
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
-  Used Block Count 24
+  Used Block Count 23
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 7
+  Peak main deferred allocation count 6
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 182403
-        32B: 7 Subsections = 3584 buckets. Failed count: 649292
-        48B: 23 Subsections = 7850 buckets. Failed count: 576257
-        64B: 199 Subsections = 50944 buckets. Failed count: 2568
-        80B: 16 Subsections = 3276 buckets. Failed count: 124646
-        96B: 4 Subsections = 682 buckets. Failed count: 106984
-        112B: 2 Subsections = 292 buckets. Failed count: 289190
-        128B: 3 Subsections = 384 buckets. Failed count: 21524
+        16B: 2 Subsections = 2048 buckets. Failed count: 587090
+        32B: 7 Subsections = 3584 buckets. Failed count: 786006
+        48B: 19 Subsections = 6485 buckets. Failed count: 1005323
+        64B: 203 Subsections = 51968 buckets. Failed count: 2593
+        80B: 16 Subsections = 3276 buckets. Failed count: 316040
+        96B: 4 Subsections = 682 buckets. Failed count: 80283
+        112B: 2 Subsections = 292 buckets. Failed count: 310736
+        128B: 3 Subsections = 384 buckets. Failed count: 24277
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 793 frames, [64.0 KB-128.0 KB]: 775 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 8326 frames, [1.0 MB-2.0 MB]: 54527 frames, [2.0 MB-4.0 MB]: 17364 frames, [8.0 MB-16.0 MB]: 11 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 802 frames, [64.0 KB-128.0 KB]: 714 frames, [128.0 KB-256.0 KB]: 4 frames, [0.5 MB-1.0 MB]: 6179 frames, [1.0 MB-2.0 MB]: 29684 frames, [2.0 MB-4.0 MB]: 94634 frames, [4.0 MB-8.0 MB]: 5516 frames, [8.0 MB-16.0 MB]: 9526 frames, [16.0 MB-32.0 MB]: 1792 frames
       Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 14.1 MB
+      Peak Block count 2
+      Peak Allocated memory 18.0 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 1066 frames, [2.0 MB-4.0 MB]: 26 frames, [4.0 MB-8.0 MB]: 38 frames, [8.0 MB-16.0 MB]: 80668 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 1073 frames, [2.0 MB-4.0 MB]: 28 frames, [4.0 MB-8.0 MB]: 78 frames, [8.0 MB-16.0 MB]: 125871 frames, [16.0 MB-32.0 MB]: 21801 frames
       Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 9.7 MB
+      Peak Block count 2
+      Peak Allocated memory 25.5 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 39
+  Peak main deferred allocation count 72
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 182403
-        32B: 7 Subsections = 3584 buckets. Failed count: 649292
-        48B: 23 Subsections = 7850 buckets. Failed count: 576257
-        64B: 199 Subsections = 50944 buckets. Failed count: 2568
-        80B: 16 Subsections = 3276 buckets. Failed count: 124646
-        96B: 4 Subsections = 682 buckets. Failed count: 106984
-        112B: 2 Subsections = 292 buckets. Failed count: 289190
-        128B: 3 Subsections = 384 buckets. Failed count: 21524
+        16B: 2 Subsections = 2048 buckets. Failed count: 587090
+        32B: 7 Subsections = 3584 buckets. Failed count: 786006
+        48B: 19 Subsections = 6485 buckets. Failed count: 1005323
+        64B: 203 Subsections = 51968 buckets. Failed count: 2593
+        80B: 16 Subsections = 3276 buckets. Failed count: 316040
+        96B: 4 Subsections = 682 buckets. Failed count: 80283
+        112B: 2 Subsections = 292 buckets. Failed count: 310736
+        128B: 3 Subsections = 384 buckets. Failed count: 24277
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 79801 frames, [2.0 MB-4.0 MB]: 1997 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 90938 frames, [2.0 MB-4.0 MB]: 57913 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
-      Peak Allocated memory 2.1 MB
+      Peak Allocated memory 2.5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [0.5 MB-1.0 MB]: 1046 frames, [1.0 MB-2.0 MB]: 46 frames, [4.0 MB-8.0 MB]: 383 frames, [8.0 MB-16.0 MB]: 46 frames, [16.0 MB-32.0 MB]: 22843 frames, [32.0 MB-64.0 MB]: 57434 frames
+      Peak usage frame count: [0.5 MB-1.0 MB]: 1057 frames, [1.0 MB-2.0 MB]: 43 frames, [4.0 MB-8.0 MB]: 313 frames, [8.0 MB-16.0 MB]: 49 frames, [16.0 MB-32.0 MB]: 53915 frames, [32.0 MB-64.0 MB]: 93474 frames
       Requested Block Size 4.0 MB
-      Peak Block count 9
-      Peak Allocated memory 34.7 MB
+      Peak Block count 10
+      Peak Allocated memory 35.3 MB
       Peak Large allocation bytes 6.0 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -892,23 +1008,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 182403
-        32B: 7 Subsections = 3584 buckets. Failed count: 649292
-        48B: 23 Subsections = 7850 buckets. Failed count: 576257
-        64B: 199 Subsections = 50944 buckets. Failed count: 2568
-        80B: 16 Subsections = 3276 buckets. Failed count: 124646
-        96B: 4 Subsections = 682 buckets. Failed count: 106984
-        112B: 2 Subsections = 292 buckets. Failed count: 289190
-        128B: 3 Subsections = 384 buckets. Failed count: 21524
+        16B: 2 Subsections = 2048 buckets. Failed count: 587090
+        32B: 7 Subsections = 3584 buckets. Failed count: 786006
+        48B: 19 Subsections = 6485 buckets. Failed count: 1005323
+        64B: 203 Subsections = 51968 buckets. Failed count: 2593
+        80B: 16 Subsections = 3276 buckets. Failed count: 316040
+        96B: 4 Subsections = 682 buckets. Failed count: 80283
+        112B: 2 Subsections = 292 buckets. Failed count: 310736
+        128B: 3 Subsections = 384 buckets. Failed count: 24277
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 793 frames, [4.0 KB-8.0 KB]: 2664 frames, [8.0 KB-16.0 KB]: 602 frames, [32.0 KB-64.0 KB]: 77739 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 802 frames, [4.0 KB-8.0 KB]: 25036 frames, [8.0 KB-16.0 KB]: 355 frames, [16.0 KB-32.0 KB]: 122658 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 39.9 KB
+      Peak Allocated memory 31.8 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1491 frames, [8.0 KB-16.0 KB]: 39 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 32 frames, [64.0 KB-128.0 KB]: 7 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1953 frames, [0.5 MB-1.0 MB]: 189 frames, [1.0 MB-2.0 MB]: 825 frames, [2.0 MB-4.0 MB]: 55936 frames, [4.0 MB-8.0 MB]: 21324 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1430 frames, [8.0 KB-16.0 KB]: 45 frames, [32.0 KB-64.0 KB]: 37 frames, [64.0 KB-128.0 KB]: 8 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 7115 frames, [0.5 MB-1.0 MB]: 17330 frames, [1.0 MB-2.0 MB]: 33 frames, [2.0 MB-4.0 MB]: 51780 frames, [4.0 MB-8.0 MB]: 71072 frames
       Requested Block Size 2.0 MB
       Peak Block count 3
-      Peak Allocated memory 4.6 MB
+      Peak Allocated memory 4.8 MB
       Peak Large allocation bytes 0 B
