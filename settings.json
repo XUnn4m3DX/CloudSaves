@@ -1,0 +1,45 @@
+{
+    "$id": 0,
+    "$type": "0|SadCatStudios.Foundation.GlobalState, Assembly-CSharp",
+    "Gameplay": {
+        "$id": 1,
+        "$type": "1|SadCatStudios.Foundation.GlobalState+GameplaySettings, Assembly-CSharp",
+        "CameraShake": 1,
+        "SubtitleFontSize": {
+            "$type": "2|System.Nullable`1[[System.Single, mscorlib]], mscorlib",
+            0.5
+        },
+        "SubtitleBackgroundAlpha": {
+            "$type": 2,
+            1
+        }
+    },
+    "Visuals": {
+        "$id": 2,
+        "$type": "3|SadCatStudios.Foundation.GlobalState+VisualSettings, Assembly-CSharp",
+        "Brightness": 0,
+        "FullscreenMode": 0,
+        "ResolutionWidth": 1920,
+        "ResolutionHeight": 1080,
+        "ResolutionRefreshRate": -1,
+        "VSync": true,
+        "Letterbox": 0,
+        "Aspect": 0
+    },
+    "Audio": {
+        "$id": 3,
+        "$type": "4|SadCatStudios.Foundation.GlobalState+AudioSettings, Assembly-CSharp",
+        "Master": 1,
+        "Music": 1,
+        "SFX": 1,
+        "Dialogue": 1,
+        "AudioDevice": 0
+    },
+    "Gamepad": {
+        "$id": 4,
+        "$type": "5|SadCatStudios.Foundation.GlobalState+GamepadSettings, Assembly-CSharp",
+        "Vibration": 1
+    },
+    "Language": "en",
+    "SimplifiedFont": false
+}
