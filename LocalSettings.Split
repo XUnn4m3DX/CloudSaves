@@ -1,0 +1,6 @@
+{
+	"WindowMode": "Fullscreen",
+	"AntiAliasing": "FSR",
+	"ResolutionScale": "100.0",
+	"FSRMode": "Quality"
+}
