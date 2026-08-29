@@ -1,0 +1,10 @@
+[SavedSettings]
+displayIndex=0
+api=dx11
+vsync=true
+fpsLimiter=60
+globalGraphicsQuality=3
+textureQuality=3
+shadowQuality=3
+vfxQuality=3
+enableFXAA=true
