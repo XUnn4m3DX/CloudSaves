@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>CFA461FF4F33B1B625BC06B55F06B800</ExecutionGuid>
+<CrashGUID>UECC-Windows-EB977A304E01D3A999F21C9E9E16DF9F_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000018</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<CrashReporterMessage>Attended</CrashReporterMessage>
+<ProcessId>56304</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsWithDebugInfo>true</IsWithDebugInfo>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE-Split</GameName>
+<ExecutableName>SplitFiction</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformFullName>Windows</PlatformFullName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.4.4-0+UE5</EngineVersion>
+<EngineCompatibleVersion>5.4.4-0+UE5</EngineCompatibleVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-MY</AppDefaultLocale>
+<BuildVersion>UE5-CL-0</BuildVersion>
+<Symbols>UE5-CL-0-Win64-Shipping</Symbols>
+<IsUERelease>true</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/SteamLibrary/steamapps/common/Split Fiction/Split/Binaries/Win64/</BaseDir>
+<RootDir>D:/SteamLibrary/steamapps/common/Split Fiction/</RootDir>
+<MachineId>3AC44331454E60F133711B855935289D</MachineId>
+<LoginId>3ac44331454e60f133711b855935289d</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName>GameState</GameStateName>
+<Misc.NumberOfCores>14</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i5-14600KF</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4060</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 11 (24H2) [10.0.26100.7171]</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<Misc.AnticheatProvider></Misc.AnticheatProvider>
+<MemoryStats.TotalPhysical>34212712448</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>50318839808</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+
+nvwgf2umx              0x00007ffecebf0000 + fb5d3           
+nvwgf2umx              0x00007ffecebf0000 + 251e66          
+nvwgf2umx              0x00007ffecebf0000 + 252fe5          
+nvwgf2umx              0x00007ffecebf0000 + 25b5f8          
+nvwgf2umx              0x00007ffecebf0000 + 3a6d61          
+nvwgf2umx              0x00007ffecebf0000 + 185557          
+nvwgf2umx              0x00007ffecebf0000 + 9738c6          
+nvwgf2umx              0x00007ffecebf0000 + 1f6b79          
+nvwgf2umx              0x00007ffecebf0000 + 6f0be4          
+nvwgf2umx              0x00007ffecebf0000 + 7a2f68          
+nvwgf2umx              0x00007ffecebf0000 + 7a1be0          
+nvwgf2umx              0x00007ffecebf0000 + 7a198f          
+nvwgf2umx              0x00007ffecebf0000 + 722239          
+nvwgf2umx              0x00007ffecebf0000 + 7a9a24          
+nvwgf2umx              0x00007ffecebf0000 + 76db84          
+nvwgf2umx              0x00007ffecebf0000 + 76b51c          
+nvwgf2umx              0x00007ffecebf0000 + 7aed6c          
+nvwgf2umx              0x00007ffecebf0000 + 7cbc08          
+D3D12Core              0x00007ffec0f30000 + 9408            
+D3D12Core              0x00007ffec0f30000 + 8eed            
+dxgi                   0x00007fff0f300000 + 2e612           
+dxgi                   0x00007fff0f300000 + a59d3           
+dxgi                   0x00007fff0f300000 + 1e7eb           
+dxgi                   0x00007fff0f300000 + 1c5b9           
+dxgi                   0x00007fff0f300000 + 107a7           
+dxgi                   0x00007fff0f300000 + 3674            
+dxgi                   0x00007fff0f300000 + 2e1a            
+gameoverlayrenderer64  0x00007ffe96970000 + 93f6f           
+NvPresent64            0x00007ffeca180000 + 9840f           
+NvPresent64            0x00007ffeca180000 + 880ae           
+NvPresent64            0x00007ffeca180000 + 86800           
+NvPresent64            0x00007ffeca180000 + 80742           
+NvPresent64            0x00007ffeca180000 + 7eb7f           
+NvPresent64            0x00007ffeca180000 + 153281a         
+KERNEL32               0x00007fff13980000 + 2e8d7           
+</PCallStack>
+<PCallStackHash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</PCallStackHash>
+<Threads><Thread><CallStack>ntdll         0x00007fff14dc0000 + 165914          
+ntdll         0x00007fff14dc0000 + af5f            
+ntdll         0x00007fff14dc0000 + c5ff            
+ntdll         0x00007fff14dc0000 + d872            
+dxgi          0x00007fff0f300000 + 39866           
+SplitFiction  0x00007ff605300000 + 4740733         
+SplitFiction  0x00007ff605300000 + 4a039c8         
+SplitFiction  0x00007ff605300000 + 4a03d38         
+SplitFiction  0x00007ff605300000 + bb2d839         
+SplitFiction  0x00007ff605300000 + 2fecb78         
+SplitFiction  0x00007ff605300000 + 5df617e         
+SplitFiction  0x00007ff605300000 + 56f84bd         
+SplitFiction  0x00007ff605300000 + 50e3ed8         
+SplitFiction  0x00007ff605300000 + 6065fe9         
+SplitFiction  0x00007ff605300000 + 605518c         
+SplitFiction  0x00007ff605300000 + 60696aa         
+SplitFiction  0x00007ff605300000 + 6069fb2         
+SplitFiction  0x00007ff605300000 + 606a08b         
+SplitFiction  0x00007ff605300000 + cb86046         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>31996</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>53932</ThreadID>
+<ThreadName>Foreground Worker #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>58172</ThreadID>
+<ThreadName>Foreground Worker #1</ThreadName>
+</Thread>
+<Thread><CallStack>SplitFiction  0x00007ff605300000 + c2511ec         
+SplitFiction  0x00007ff605300000 + c204aa4         
+SplitFiction  0x00007ff605300000 + c2038df         
+SplitFiction  0x00007ff605300000 + c1f6645         
+SplitFiction  0x00007ff605300000 + c1f7705         
+SplitFiction  0x00007ff605300000 + 2a54be3         
+SplitFiction  0x00007ff605300000 + 2a550ab         
+SplitFiction  0x00007ff605300000 + 2b698ae         
+SplitFiction  0x00007ff605300000 + 3b386f4         
+SplitFiction  0x00007ff605300000 + 3b56901         
+SplitFiction  0x00007ff605300000 + 2a4f7c9         
+SplitFiction  0x00007ff605300000 + 2a53bce         
+SplitFiction  0x00007ff605300000 + 2a4b663         
+SplitFiction  0x00007ff605300000 + 2a3ad6b         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8472</ThreadID>
+<ThreadName>Background Worker #2</ThreadName>
+</Thread>
+<Thread><CallStack>SplitFiction  0x00007ff605300000 + c24b7dc         
+SplitFiction  0x00007ff605300000 + c24c3ee         
+SplitFiction  0x00007ff605300000 + c2049ea         
+SplitFiction  0x00007ff605300000 + c2038a5         
+SplitFiction  0x00007ff605300000 + c1f6645         
+SplitFiction  0x00007ff605300000 + c1f7705         
+SplitFiction  0x00007ff605300000 + 2a54cb6         
+SplitFiction  0x00007ff605300000 + 2a550ab         
+SplitFiction  0x00007ff605300000 + 2b698ae         
+SplitFiction  0x00007ff605300000 + 3b386f4         
+SplitFiction  0x00007ff605300000 + 3b56901         
+SplitFiction  0x00007ff605300000 + 2a4f7c9         
+SplitFiction  0x00007ff605300000 + 2a53bce         
+SplitFiction  0x00007ff605300000 + 2a4b663         
+SplitFiction  0x00007ff605300000 + 2a3ad6b         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>58344</ThreadID>
+<ThreadName>Background Worker #3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>49968</ThreadID>
+<ThreadName>Background Worker #4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>50064</ThreadID>
+<ThreadName>Background Worker #5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>33456</ThreadID>
+<ThreadName>Background Worker #6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>25864</ThreadID>
+<ThreadName>Background Worker #7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161e64          
+KERNELBASE    0x00007fff11fa0000 + cc3f4           
+SplitFiction  0x00007ff605300000 + 2a4b65b         
+SplitFiction  0x00007ff605300000 + 2a3ad6b         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>52960</ThreadID>
+<ThreadName>Background Worker #8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>49740</ThreadID>
+<ThreadName>Background Worker #9</ThreadName>
+</Thread>
+<Thread><CallStack>SplitFiction  0x00007ff605300000 + b884c8          
+SplitFiction  0x00007ff605300000 + c26a734         
+SplitFiction  0x00007ff605300000 + c246313         
+SplitFiction  0x00007ff605300000 + c206e2b         
+SplitFiction  0x00007ff605300000 + c2045ff         
+SplitFiction  0x00007ff605300000 + c2038a5         
+SplitFiction  0x00007ff605300000 + c1f6645         
+SplitFiction  0x00007ff605300000 + c1f7705         
+SplitFiction  0x00007ff605300000 + 2a54cb6         
+SplitFiction  0x00007ff605300000 + 2a550ab         
+SplitFiction  0x00007ff605300000 + 2b698ae         
+SplitFiction  0x00007ff605300000 + 3b386f4         
+SplitFiction  0x00007ff605300000 + 3b56901         
+SplitFiction  0x00007ff605300000 + 2a4f7c9         
+SplitFiction  0x00007ff605300000 + 2a53bce         
+SplitFiction  0x00007ff605300000 + 2a4b663         
+SplitFiction  0x00007ff605300000 + 2a3ad6b         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16736</ThreadID>
+<ThreadName>Background Worker #10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23128</ThreadID>
+<ThreadName>Background Worker #11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3aef9         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5812</ThreadID>
+<ThreadName>Background Worker #12</ThreadName>
+</Thread>
+<Thread><CallStack>VCRUNTIME140  0x00007ffef7390000 + 1c78b           
+SplitFiction  0x00007ff605300000 + 3b3874b         
+SplitFiction  0x00007ff605300000 + 3b56901         
+SplitFiction  0x00007ff605300000 + 2a4f7c9         
+SplitFiction  0x00007ff605300000 + 2a53bce         
+SplitFiction  0x00007ff605300000 + 2a4b663         
+SplitFiction  0x00007ff605300000 + 2a3ad6b         
+SplitFiction  0x00007ff605300000 + 2a50dc0         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13404</ThreadID>
+<ThreadName>Background Worker #13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>42408</ThreadID>
+<ThreadName>BackgroundThreadPool #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>51984</ThreadID>
+<ThreadName>BackgroundThreadPool #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 162344          
+ntdll         0x00007fff14dc0000 + cef34           
+KERNELBASE    0x00007fff11fa0000 + 43c31           
+SplitFiction  0x00007ff605300000 + 2aa5f0d         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>30220</ThreadID>
+<ThreadName>FHeartBeatThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 165914          
+ntdll         0x00007fff14dc0000 + 9c1c3           
+KERNELBASE    0x00007fff11fa0000 + dfe78           
+SplitFiction  0x00007ff605300000 + 2b4c9fd         
+SplitFiction  0x00007ff605300000 + 2a3c125         
+SplitFiction  0x00007ff605300000 + 2baed75         
+SplitFiction  0x00007ff605300000 + 2aa4c94         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>57008</ThreadID>
+<ThreadName>OutputDeviceRedirector</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>53064</ThreadID>
+<ThreadName>IOThreadPool #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>56648</ThreadID>
+<ThreadName>IOThreadPool #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>28464</ThreadID>
+<ThreadName>IOThreadPool #2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2aaa47e         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>43436</ThreadID>
+<ThreadName>IOThreadPool #3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d84          
+KERNELBASE    0x00007fff11fa0000 + 3ec0a           
+SplitFiction  0x00007ff605300000 + 2c09728         
+SplitFiction  0x00007ff605300000 + 3b31cb1         
+SplitFiction  0x00007ff605300000 + 3b39a41         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>56884</ThreadID>
+<ThreadName>IoService</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2b18692         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>45372</ThreadID>
+<ThreadName>IoDispatcher</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 4725165         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>49496</ThreadID>
+<ThreadName>RHIInterruptThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 4725165         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>38580</ThreadID>
+<ThreadName>RHISubmissionThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3cbf5         
+SplitFiction  0x00007ff605300000 + 2a3ca20         
+SplitFiction  0x00007ff605300000 + 4900f11         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>57128</ThreadID>
+<ThreadName>RHIThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 2a3cbf5         
+SplitFiction  0x00007ff605300000 + 2a3ca20         
+SplitFiction  0x00007ff605300000 + 49011b8         
+SplitFiction  0x00007ff605300000 + 490158c         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>51576</ThreadID>
+<ThreadName>RenderThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 162344          
+ntdll         0x00007fff14dc0000 + cef34           
+KERNELBASE    0x00007fff11fa0000 + 43c31           
+SplitFiction  0x00007ff605300000 + 2c20ed3         
+SplitFiction  0x00007ff605300000 + 4901767         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>36076</ThreadID>
+<ThreadName>RTHeartBeat 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + 507ffdc         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>52948</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 162344          
+ntdll         0x00007fff14dc0000 + cef34           
+KERNELBASE    0x00007fff11fa0000 + 43c31           
+SplitFiction  0x00007ff605300000 + 328ee43         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>56496</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + c0888f2         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>47756</ThreadID>
+<ThreadName>HazeWindowsGamingInput</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + c58a            
+ntdll         0x00007fff14dc0000 + d872            
+SplitFiction  0x00007ff605300000 + 2a9e243         
+SplitFiction  0x00007ff605300000 + 2a9e7c5         
+SplitFiction  0x00007ff605300000 + 2a9cea4         
+SplitFiction  0x00007ff605300000 + 2ce741f         
+SplitFiction  0x00007ff605300000 + 2cd1fe8         
+SplitFiction  0x00007ff605300000 + 2ce2e81         
+SplitFiction  0x00007ff605300000 + 5ec03f2         
+SplitFiction  0x00007ff605300000 + 5ec8a00         
+SplitFiction  0x00007ff605300000 + 5ec9550         
+SplitFiction  0x00007ff605300000 + 5ec0814         
+SplitFiction  0x00007ff605300000 + 2cd85c4         
+SplitFiction  0x00007ff605300000 + 2cd7754         
+SplitFiction  0x00007ff605300000 + 2cd58c0         
+SplitFiction  0x00007ff605300000 + 2cd5dde         
+SplitFiction  0x00007ff605300000 + 2cdd2fb         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>53360</ThreadID>
+<ThreadName>FAsyncLoadingThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 162344          
+ntdll         0x00007fff14dc0000 + cef34           
+KERNELBASE    0x00007fff11fa0000 + 43c31           
+SplitFiction  0x00007ff605300000 + 2c20ed3         
+SplitFiction  0x00007ff605300000 + 5eefb50         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>50168</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c211c5         
+SplitFiction  0x00007ff605300000 + b1e7f90         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8372</ThreadID>
+<ThreadName>HazeOnlineTaskThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007fff14dc0000 + 161d44          
+KERNELBASE    0x00007fff11fa0000 + 37eef           
+SplitFiction  0x00007ff605300000 + 2c21229         
+SplitFiction  0x00007ff605300000 + 2d49a22         
+SplitFiction  0x00007ff605300000 + 2c25ec6         
+SplitFiction  0x00007ff605300000 + 2c25d1c         
+KERNEL32      0x00007fff13980000 + 2e8d7           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>56340</ThreadID>
+<ThreadName>FAsyncPurge</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<DriveStats.Project.Name>D:/SteamLibrary/steamapps/common/Split Fiction/Split/Binaries/Win64/</DriveStats.Project.Name>
+<DriveStats.Project.Type>SSD</DriveStats.Project.Type>
+<DriveStats.Project.FreeSpaceKb>193688216</DriveStats.Project.FreeSpaceKb>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<CrashTrigger>0</CrashTrigger>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus>WindowsNo errors</MatchingDPStatus>
+<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+<RHI.D3DDebug>false</RHI.D3DDebug>
+<RHI.Breadcrumbs>false</RHI.Breadcrumbs>
+<RHI.DRED>false</RHI.DRED>
+<RHI.DREDMarkersOnly>true</RHI.DREDMarkersOnly>
+<RHI.DREDContext>false</RHI.DREDContext>
+<RHI.Aftermath>false</RHI.Aftermath>
+<RHI.RHIName>D3D12</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 4060</RHI.AdapterName>
+<RHI.UserDriverVersion>581.80</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>32.0.15.8180</RHI.InternalDriverVersion>
+<RHI.DriverDate>10-29-2025</RHI.DriverDate>
+<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+<RHI.DeviceId>2882</RHI.DeviceId>
+<DeviceProfile.Name>Windows</DeviceProfile.Name>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+<Build>1422</Build>
+<Commit>d3669abde62b9990cb43744ba3ba08efb19ed174</Commit>
+</GameData>
+</FGenericCrashContext>
