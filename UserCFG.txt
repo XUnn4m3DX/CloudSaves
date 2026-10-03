@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<graphic>
+    <adapter vendorid="4318" productid="10370" description="NVIDIA GeForce RTX 4060" adapterid="MONITOR\ACR0D4B\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000" name="\\.\DISPLAY1" guid="d7b71e3e-6bc2-11cf-2a65-ec330ec2ed35" />
+    <resolution width="1920" height="1080" refresh="180" />
+    <options aa="2" vsync="1" windowed="0" motionblur="0" ssao="2" shadow="2" reflection="0" inversion="0" control_layout="0" vibration="1" fov_norm="38" fov_aim="26" volume="100" voice_language="0" />
+</graphic>
+<audio>
+    <adapter id="Default" name="Default" />
+    <input_adapter description="Primary Sound Capture Driver" guid="00000000-0000-0000-0000-0000000000" />
+</audio>
+<input>
+    <keyboard>
+        <keyconfig>
+            <INPUT_A key_id="57" mouse_id="-1" />
+            <INPUT_B key_id="33" mouse_id="-1" />
+            <INPUT_X key_id="18" mouse_id="-1" />
+            <INPUT_Y key_id="16" mouse_id="-1" />
+            <INPUT_UP key_id="17" mouse_id="-1" />
+            <INPUT_DOWN key_id="31" mouse_id="-1" />
+            <INPUT_LEFT key_id="30" mouse_id="-1" />
+            <INPUT_RIGHT key_id="32" mouse_id="-1" />
+            <INPUT_START key_id="14" mouse_id="-1" />
+            <INPUT_SELECT key_id="42" mouse_id="-1" />
+            <INPUT_LB key_id="15" mouse_id="-1" />
+            <INPUT_RB key_id="0" mouse_id="2" />
+            <INPUT_LT key_id="0" mouse_id="1" />
+            <INPUT_RT key_id="0" mouse_id="0" />
+            <INPUT_RUP key_id="200" mouse_id="-1" />
+            <INPUT_RDOWN key_id="208" mouse_id="-1" />
+            <INPUT_RLEFT key_id="203" mouse_id="-1" />
+            <INPUT_RRIGHT key_id="205" mouse_id="-1" />
+            <INPUT_DUP key_id="3" mouse_id="-1" />
+            <INPUT_DDOWN key_id="5" mouse_id="-1" />
+            <INPUT_DLEFT key_id="2" mouse_id="-1" />
+            <INPUT_DRIGHT key_id="4" mouse_id="-1" />
+        </keyconfig>
+        <mouse_sensitivity value="500" />
+    </keyboard>
+    <controllers xbox_sensitivity="4" num="0" />
+</input>
