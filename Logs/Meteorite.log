@@ -1,0 +1,4 @@
+Log file open, 26/10/26 01:36:22
+[2026.10.26-01.36.22:229][  0]LogGauntlet: Display: Gauntlet Initialized
+[2026.10.26-01.36.46:872][  0]LogInit: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.10.26-23.46.23:868][  0]LogGauntlet: Gauntlet Shutdown
